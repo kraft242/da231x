@@ -50,6 +50,7 @@ nvidia-nvtx-cu11==11.8.86
 packaging==24.2
 pandas==2.2.3
 parso==0.8.4
+peft==0.14.0
 pexpect==4.9.0
 pillow==11.0.0
 platformdirs==4.3.6
