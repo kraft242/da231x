@@ -10,7 +10,8 @@ Return only the corrected text and nothing more.
 _root_prompt = f"""Du är ett grammatiskt felrättningsverktyg. 
 Din uppgift är att rätta grammatik och stavning i indatauppsatsen som är skriven av en svenskelev. 
 {_dummy_description}
-Returnera endast den rättade texten och inget annat."""
+Returnera endast den rättade texten och inget annat.
+"""
 
 """
 ORIGINAL
