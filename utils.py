@@ -1,6 +1,6 @@
 from prompts import minimal_prompt, fluency_prompt
 from transformers import (
-    AutoModelForSeq2SeqLM,
+    AutoModelForCausalLM,
     AutoTokenizer,
     TrainingArguments,
     BitsAndBytesConfig,
@@ -48,7 +48,7 @@ def _get_model(model_name):
     Creates and prepares a model object for PEFT training by loading a quantization config, enabling gradient checkpointing, and preparing the model for kbit training.
     The prepared model is then returned
     """
-    model = AutoModelForSeq2SeqLM.from_pretrained(
+    model = AutoModelForCausalLM.from_pretrained(
         model_name,
         quantization_config=_get_quantization_config()
     )
