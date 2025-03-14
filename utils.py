@@ -105,9 +105,8 @@ def _get_lora_config():
     Returns a LoraConfig object.
     """
     return LoraConfig(
-        r=8,
-        lora_alpha=32,
-        lora_dropout=0.05,
+        r=128,
+        lora_alpha=64,
         bias="none",
         task_type="CAUSAL_LM"
     )
