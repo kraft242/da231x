@@ -34,7 +34,7 @@ Do not change the meaning of the essay by adding or removing information.
 If the essay is already grammatically correct and fluent, you should output the original essay without changing anything.
 """
 _description_fluency = """Du får skriva om delar av uppsatsen för att förbättra flytet.
-Ändra inte uppsatsen innebörd genom att infoga eller radera information.
+Ändra inte uppsatsens innebörd genom att infoga eller radera information.
 Om uppsatsen redan är grammatisk och flytande så ska du mata ut originaluppsatsen utan att ändra någonting."""
 
 minimal_prompt = _root_prompt.replace(_dummy_description, _description_minimal)
