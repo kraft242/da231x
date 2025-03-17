@@ -9,12 +9,8 @@ from transformers import (
 )
 from datasets import load_from_disk
 import torch
-from os import path
-from peft import (
-    prepare_model_for_kbit_training,
-    LoraConfig,
-    get_peft_model
-)
+from os import path, makedirs
+from peft import prepare_model_for_kbit_training, LoraConfig, get_peft_model
 
 # HELPER FUNCTIONS
 
@@ -49,8 +45,7 @@ def _get_model(model_name):
     The prepared model is then returned
     """
     model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        quantization_config=_get_quantization_config()
+        model_name, quantization_config=_get_quantization_config()
     )
 
     # Prepare model for QLoRa training
@@ -104,27 +99,34 @@ def _get_lora_config():
     """
     Returns a LoraConfig object.
     """
-    return LoraConfig(
-        r=128,
-        lora_alpha=64,
-        bias="none",
-        task_type="CAUSAL_LM"
-    )
+    return LoraConfig(r=128, lora_alpha=64, bias="none", task_type="CAUSAL_LM")
 
 
-def _get_training_arguments():
+def _get_model_path(version):
+    """
+    Ensures that the directory ./models/version exists and returns the path.
+    The version argument is either "minimal" or "fluency"
+    """
+
+    full_model_dir_path = path.join("models", version)
+    makedirs(full_model_dir_path, exist_ok=True)
+    return full_model_dir_path
+
+
+def _get_training_arguments(version):
     """
     Returns a TrainingArguments object.
     """
     return TrainingArguments(
-        output_dir="tmp_model",
-        num_train_epochs=1,
+        output_dir=_get_model_path(version),
+        num_train_epochs=3,
         optim="adamw_bnb_8bit",
         learning_rate=5e-5,
         bf16=True,
         logging_steps=1,
         per_device_train_batch_size=4,
     )
+
 
 # MAIN FUNCTIONS
 
@@ -158,23 +160,20 @@ def get_tokenized_dataset(tokenizer, version):
         inputs = [prompt + example for example in examples["source"]]
         targets = [example for example in examples["target"]]
         return tokenizer(
-            inputs,
-            text_target=targets,
-            max_length=4096,
-            padding="max_length"
+            inputs, text_target=targets, max_length=4096, padding="max_length"
         )
 
     return dataset.map(preprocess_function, batched=True)
 
 
-def get_trainer(model, tokenizer, tokenized_dataset, data_collator):
+def get_trainer(model, tokenizer, tokenized_dataset, data_collator, version):
     lora_config = _get_lora_config()
 
     peft_model = get_peft_model(model, lora_config)
 
     peft_model.config.use_cache = False
 
-    training_arguments = _get_training_arguments()
+    training_arguments = _get_training_arguments(version)
 
     return Trainer(
         model=peft_model,
@@ -182,5 +181,5 @@ def get_trainer(model, tokenizer, tokenized_dataset, data_collator):
         train_dataset=tokenized_dataset["train"],
         eval_dataset=tokenized_dataset["validation"],
         processing_class=tokenizer,
-        data_collator=data_collator
+        data_collator=data_collator,
     )
