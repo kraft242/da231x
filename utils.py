@@ -23,65 +23,12 @@ def _ensure_gpu_is_available():
         raise RuntimeError("GPU is not available for training!")
 
 
-def _get_quantization_config():
-    """
-    Returns a BitsAndBytesConfig that:
-    - Loads in 4 bit mode
-    - Quantizes in nf4
-    - Uses double quantization
-    - Uses bf16 compute type
-    """
-    return BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_quant_type="nf4",
-        bnb_4bit_use_double_quant=True,
-        bnb_4bit_compute_dtype=torch.bfloat16,
-    )
-
-
-def _get_model(model_name):
-    """
-    Creates and prepares a model object for PEFT training by loading a quantization config, enabling gradient checkpointing, and preparing the model for kbit training.
-    The prepared model is then returned
-    """
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name, quantization_config=_get_quantization_config()
-    )
-
-    # Prepare model for QLoRa training
-    model.gradient_checkpointing_enable()
-    return prepare_model_for_kbit_training(model)
-
-
-def _get_tokenizer(model_name):
-    """
-    Returns an AutoTokenizer from the provided model_name.
-    """
-    return AutoTokenizer.from_pretrained(model_name)
-
-
-def _get_data_collator(tokenizer, model):
-    """
-    Returns a DataCollatorForSeq2Seq from the provided tokenizer and model.
-    """
-    return DataCollatorForSeq2Seq(tokenizer, model=model)
-
-
 def _validate_version(version):
     """
     Ensures the version string is either "minimal" or "fluency", otherwise throws a ValueError.
     """
     if version not in ["minimal", "fluency"]:
         raise ValueError("Unknown dataset version passed.")
-
-
-def _get_dataset(version):
-    """
-    Reads the dataset version from disk. The version argument is either "minimal" or "fluency" and the corresponding dataset is returned.
-    """
-    base_dataset_dir = "datasets"
-    dataset_path = path.join(base_dataset_dir, version)
-    return load_from_disk(dataset_path)
 
 
 def _get_prompt(version):
@@ -95,13 +42,6 @@ def _get_prompt(version):
             return fluency_prompt
 
 
-def _get_lora_config():
-    """
-    Returns a LoraConfig object.
-    """
-    return LoraConfig(r=128, lora_alpha=64, bias="none", task_type="CAUSAL_LM")
-
-
 def _get_model_path(version):
     """
     Ensures that the directory ./models/version exists and returns the path.
@@ -113,21 +53,6 @@ def _get_model_path(version):
     return full_model_dir_path
 
 
-def _get_training_arguments(version):
-    """
-    Returns a TrainingArguments object.
-    """
-    return TrainingArguments(
-        output_dir=_get_model_path(version),
-        num_train_epochs=3,
-        optim="adamw_bnb_8bit",
-        learning_rate=5e-5,
-        bf16=True,
-        logging_steps=1,
-        per_device_train_batch_size=4,
-    )
-
-
 # MAIN FUNCTIONS
 
 
@@ -137,9 +62,24 @@ def get_model_tokenizer_collator(model_name):
     """
     _ensure_gpu_is_available()
 
-    model = _get_model(model_name)
-    tokenizer = _get_tokenizer(model_name)
-    data_collator = _get_data_collator(tokenizer, model)
+    # Model
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_use_double_quant=False,
+        bnb_4bit_compute_dtype=torch.bfloat16,
+    )
+    model = AutoModelForCausalLM.from_pretrained(
+        model_name, quantization_config=bnb_config
+    )
+    model.gradient_checkpointing_enable()
+    model = prepare_model_for_kbit_training(model)
+
+    # Tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+    # Data Collator
+    data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
     return model, tokenizer, data_collator
 
@@ -152,8 +92,12 @@ def get_tokenized_dataset(tokenizer, version):
     """
     _validate_version(version)
 
-    dataset = _get_dataset(version)
+    # Non-Tokenized Dataset
+    base_dataset_dir = "datasets"
+    dataset_path = path.join(base_dataset_dir, version)
+    dataset = load_from_disk(dataset_path)
 
+    # Prompt
     prompt = _get_prompt(version)
 
     def preprocess_function(examples):
@@ -167,13 +111,33 @@ def get_tokenized_dataset(tokenizer, version):
 
 
 def get_trainer(model, tokenizer, tokenized_dataset, data_collator, version):
-    lora_config = _get_lora_config()
-
+    # Make model PEFT compatible
+    lora_config = LoraConfig(r=128, lora_alpha=64, bias="none", task_type="CAUSAL_LM")
     peft_model = get_peft_model(model, lora_config)
-
     peft_model.config.use_cache = False
 
-    training_arguments = _get_training_arguments(version)
+    # Training Arguments
+    epochs = 3
+    batch_size = 4
+    dataset_size = len(tokenized_dataset["train"])
+    steps_per_epoch = (dataset_size * epochs) // batch_size
+    num_eval_steps = steps_per_epoch // 2
+
+    training_arguments = TrainingArguments(
+        output_dir=_get_model_path(version),
+        num_train_epochs=3,
+        eval_strategy="steps",
+        eval_steps=num_eval_steps,
+        prediction_loss_only=True,
+        optim="adamw_bnb_8bit",
+        learning_rate=5e-5,
+        bf16=True,
+        logging_steps=1,
+        per_device_train_batch_size=batch_size,
+        per_device_eval_batch_size=4,
+        save_strategy="epoch",
+        overwrite_output_dir=True,
+    )
 
     return Trainer(
         model=peft_model,
