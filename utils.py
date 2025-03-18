@@ -31,17 +31,6 @@ def _validate_version(version):
         raise ValueError("Unknown dataset version passed.")
 
 
-def _get_prompt(version):
-    """
-    Returns the corresponding prompt depending on if version is "minimal" or "fluency".
-    """
-    match version:
-        case "minimal":
-            return minimal_prompt
-        case "fluency":
-            return fluency_prompt
-
-
 def _get_model_path(version):
     """
     Ensures that the directory ./models/version exists and returns the path.
@@ -54,6 +43,27 @@ def _get_model_path(version):
 
 
 # MAIN FUNCTIONS
+
+
+def get_prompt(version):
+    """
+    Returns the corresponding prompt depending on if version is "minimal" or "fluency".
+    """
+    _validate_version(version)
+    match version:
+        case "minimal":
+            return minimal_prompt
+        case "fluency":
+            return fluency_prompt
+
+
+def load_finetuned_model_tokenizer(version):
+    model_path = _get_model_path(version)
+
+    model = AutoModelForCausalLM.from_pretrained(model_path)
+    tokenizer = AutoTokenizer.from_pretrained(model_path)
+
+    return model, tokenizer
 
 
 def get_model_tokenizer_collator(model_name):
@@ -84,21 +94,27 @@ def get_model_tokenizer_collator(model_name):
     return model, tokenizer, data_collator
 
 
+def get_dataset(version):
+    """
+    Reads and returns the dataset version from disk, where version is either "minimal" or "fluency".
+    Raises a ValueError if version is invalid
+    """
+    _validate_version(version)
+    base_dataset_dir = "datasets"
+    dataset_path = path.join(base_dataset_dir, version)
+    return load_from_disk(dataset_path)
+
+
 def get_tokenized_dataset(tokenizer, version):
     """
     Reads the corresponding dataset version from disk, which is either minimal or fluency.
     The dataset is then processed by prepending the corresponding prompt to each source text and tokenizing all text.
     The dataset is finally returned.
     """
-    _validate_version(version)
-
-    # Non-Tokenized Dataset
-    base_dataset_dir = "datasets"
-    dataset_path = path.join(base_dataset_dir, version)
-    dataset = load_from_disk(dataset_path)
+    dataset = get_dataset(version)
 
     # Prompt
-    prompt = _get_prompt(version)
+    prompt = get_prompt(version)
 
     def preprocess_function(examples):
         inputs = [prompt + example for example in examples["source"]]
