@@ -112,7 +112,13 @@ def get_tokenized_dataset(tokenizer, version):
 
 def get_trainer(model, tokenizer, tokenized_dataset, data_collator, version):
     # Make model PEFT compatible
-    lora_config = LoraConfig(r=128, lora_alpha=64, bias="none", task_type="CAUSAL_LM")
+    lora_config = LoraConfig(
+        r=128,
+        lora_alpha=64,
+        bias="none",
+        target_modules=["q_proj", "v_proj", "k_proj"],
+        task_type="CAUSAL_LM",
+    )
     peft_model = get_peft_model(model, lora_config)
     peft_model.config.use_cache = False
 
