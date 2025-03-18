@@ -116,7 +116,7 @@ def get_trainer(model, tokenizer, tokenized_dataset, data_collator, version):
     peft_model = get_peft_model(model, lora_config)
     peft_model.config.use_cache = False
 
-    # Training Arguments
+    # Setup Training Arguments
     epochs = 3
     batch_size = 4
     dataset_size = len(tokenized_dataset["train"])
@@ -125,7 +125,7 @@ def get_trainer(model, tokenizer, tokenized_dataset, data_collator, version):
 
     training_arguments = TrainingArguments(
         output_dir=_get_model_path(version),
-        num_train_epochs=3,
+        num_train_epochs=epochs,
         eval_strategy="steps",
         eval_steps=num_eval_steps,
         prediction_loss_only=True,
@@ -134,12 +134,13 @@ def get_trainer(model, tokenizer, tokenized_dataset, data_collator, version):
         bf16=True,
         logging_steps=1,
         per_device_train_batch_size=batch_size,
-        per_device_eval_batch_size=4,
+        per_device_eval_batch_size=batch_size,
         save_strategy="epoch",
         overwrite_output_dir=True,
     )
 
-    return Trainer(
+    # Create Trainer
+    trainer = Trainer(
         model=peft_model,
         args=training_arguments,
         train_dataset=tokenized_dataset["train"],
@@ -147,3 +148,5 @@ def get_trainer(model, tokenizer, tokenized_dataset, data_collator, version):
         processing_class=tokenizer,
         data_collator=data_collator,
     )
+
+    return trainer
