@@ -1,3 +1,10 @@
+# Data directory
+data/
+sources/
+references/
+hypotheses/
+outputs/
+
 # Script on cluster
 fix-ssh.sh
 
