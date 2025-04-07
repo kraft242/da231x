@@ -1,19 +1,18 @@
 # DA231X Degree Project in Computer Science and Engineering / Examensarbete i datalogi och datateknik
+
 Work in the course DA231X Examensarbete i datalogi och datateknik, avancerad nivå 30,0 hp
 
 ## Requirements
 
 ### SweLL-gold Corpus
 
-Make sure you have the SweLL-gold corpus locally downloaded.
+Make sure you have the SweLL-gold corpus locally downloaded and available.
 
-You will also need to create an `.env` file with a variable `SWELL_PATH` that holds the corpus path.
+Follow the steps below:
 
-The file should look like this:
-
-```bash
-SWELL_PATH=<Path to SweLL-gold corpus>
-```
+1. Create a directory `data/` in the the root of this repository.
+2. Copy the entire `swedish/` directory from the SweLL-gold repository into `data/`
+    - The directory should be structured as follows: `./data/swedish/SweLL_gold/`.
 
 ### Python Virtual Environment
 
