@@ -4,6 +4,7 @@ sources/
 references/
 hypotheses/
 outputs/
+models/
 
 # Script on cluster
 fix-ssh.sh
