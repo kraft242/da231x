@@ -10,6 +10,9 @@ models/
 m2/
 Llama-3.1-8B/
 spacy*/
+errant/
+gleu/
+scribendi_score/
 
 # Script on cluster
 fix-ssh.sh
