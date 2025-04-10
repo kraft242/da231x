@@ -8,6 +8,8 @@ hypotheses/
 outputs/
 models/
 m2/
+Llama-3.1-8B/
+spacy*/
 
 # Script on cluster
 fix-ssh.sh
