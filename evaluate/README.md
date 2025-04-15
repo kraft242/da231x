@@ -6,24 +6,9 @@ The instructions are adapted from the MultiGEC-2025 Data Providers repository.
 
 ## Virtual Environment
 
-Create and activate a virtual environment, which can be either `conda` or `virtualenv`.
+You can use the same virtual environment as before.
 
-Execute the commands under the respective sub-heading to setup the environment.
-
-### Conda
-
-```bash
-conda create -n evaluation_env python=3.12.5
-conda activate evaluation_env
-```
-
-### Virtualenv
-
-```bash
-python3 -m venv evaluation_env
-source evaluation_env/bin/activate
-pip install -U pip setuptools wheel
-```
+Make sure you have activated the environment before installing the packages, i.e run: `$ source ../.venv/bin/activate`.
 
 ## Install Packages
 
@@ -70,18 +55,12 @@ pip install -r requirements.txt
 cd ../
 ```
 
-## Install ipykernel
-
-To be able to run the notebook in the created environment, you will need to install `ipykernel` by executing the below command:
-
-```bash
-pip install ipykernel
-```
+After this, you will also need to move or copy the `scribeni.py` module into this directory, i.e run `cp scribendi/scribendi.py .`
 
 ## Evaluate
 
 You can now run the notebook `automatic_evaluation.ipynb` to perform the automatic evaluation.
 
-The evaluation results are saved to scores.csv.
+The pairwise evaluation results are saved to `scores.csv` and the corpuswise results are saved to `corpus_scores.csv`.
 
-Do not forget to select the `evaluation_env` kernel in the notebook.
+Do not forget to select the `venv` kernel in the notebook.
