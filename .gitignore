@@ -1,4 +1,6 @@
 *.csv
+*.tex
+*.png
 
 # Data directory
 data/
