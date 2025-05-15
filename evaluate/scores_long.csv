@@ -1,0 +1,2701 @@
+Essay ID,Edit Style,System,Metric,Submetric,Score
+1,Minimal,UAM-CSI,GLEU,,37.0
+2,Minimal,UAM-CSI,GLEU,,49.21
+3,Minimal,UAM-CSI,GLEU,,28.94
+4,Minimal,UAM-CSI,GLEU,,19.6
+5,Minimal,UAM-CSI,GLEU,,62.7
+6,Minimal,UAM-CSI,GLEU,,55.51
+7,Minimal,UAM-CSI,GLEU,,51.15
+8,Minimal,UAM-CSI,GLEU,,19.02
+9,Minimal,UAM-CSI,GLEU,,25.46
+10,Minimal,UAM-CSI,GLEU,,69.96
+11,Minimal,UAM-CSI,GLEU,,63.14
+12,Minimal,UAM-CSI,GLEU,,37.75
+13,Minimal,UAM-CSI,GLEU,,51.36
+14,Minimal,UAM-CSI,GLEU,,41.67
+15,Minimal,UAM-CSI,GLEU,,65.53
+16,Minimal,UAM-CSI,GLEU,,56.7
+17,Minimal,UAM-CSI,GLEU,,61.02
+18,Minimal,UAM-CSI,GLEU,,63.28
+19,Minimal,UAM-CSI,GLEU,,38.25
+20,Minimal,UAM-CSI,GLEU,,37.32
+21,Minimal,UAM-CSI,GLEU,,47.46
+22,Minimal,UAM-CSI,GLEU,,34.83
+23,Minimal,UAM-CSI,GLEU,,56.48
+24,Minimal,UAM-CSI,GLEU,,51.64
+25,Minimal,UAM-CSI,GLEU,,82.99
+26,Minimal,UAM-CSI,GLEU,,62.56
+27,Minimal,UAM-CSI,GLEU,,56.47
+28,Minimal,UAM-CSI,GLEU,,41.65
+29,Minimal,UAM-CSI,GLEU,,71.2
+30,Minimal,UAM-CSI,GLEU,,53.48
+31,Minimal,UAM-CSI,GLEU,,55.68
+32,Minimal,UAM-CSI,GLEU,,49.24
+33,Minimal,UAM-CSI,GLEU,,36.69
+34,Minimal,UAM-CSI,GLEU,,33.26
+35,Minimal,UAM-CSI,GLEU,,59.06
+36,Minimal,UAM-CSI,GLEU,,56.81
+37,Minimal,UAM-CSI,GLEU,,72.7
+38,Minimal,UAM-CSI,GLEU,,61.34
+39,Minimal,UAM-CSI,GLEU,,34.74
+40,Minimal,UAM-CSI,GLEU,,73.57
+41,Minimal,UAM-CSI,GLEU,,57.56
+42,Minimal,UAM-CSI,GLEU,,59.57
+43,Minimal,UAM-CSI,GLEU,,65.41
+44,Minimal,UAM-CSI,GLEU,,81.67
+45,Minimal,UAM-CSI,GLEU,,69.88
+46,Minimal,UAM-CSI,GLEU,,60.74
+47,Minimal,UAM-CSI,GLEU,,43.59
+48,Minimal,UAM-CSI,GLEU,,53.03
+49,Minimal,UAM-CSI,GLEU,,53.02
+50,Minimal,UAM-CSI,GLEU,,38.43
+1,Fluency,UAM-CSI,GLEU,,36.7
+2,Fluency,UAM-CSI,GLEU,,48.93
+3,Fluency,UAM-CSI,GLEU,,36.48
+4,Fluency,UAM-CSI,GLEU,,20.88
+5,Fluency,UAM-CSI,GLEU,,58.91
+6,Fluency,UAM-CSI,GLEU,,53.36
+7,Fluency,UAM-CSI,GLEU,,54.78
+8,Fluency,UAM-CSI,GLEU,,20.02
+9,Fluency,UAM-CSI,GLEU,,26.68
+10,Fluency,UAM-CSI,GLEU,,69.37
+11,Fluency,UAM-CSI,GLEU,,59.2
+12,Fluency,UAM-CSI,GLEU,,43.57
+13,Fluency,UAM-CSI,GLEU,,56.53
+14,Fluency,UAM-CSI,GLEU,,43.7
+15,Fluency,UAM-CSI,GLEU,,65.37
+16,Fluency,UAM-CSI,GLEU,,59.74
+17,Fluency,UAM-CSI,GLEU,,60.43
+18,Fluency,UAM-CSI,GLEU,,54.29
+19,Fluency,UAM-CSI,GLEU,,35.12
+20,Fluency,UAM-CSI,GLEU,,31.26
+21,Fluency,UAM-CSI,GLEU,,43.07
+22,Fluency,UAM-CSI,GLEU,,35.36
+23,Fluency,UAM-CSI,GLEU,,54.81
+24,Fluency,UAM-CSI,GLEU,,48.76
+25,Fluency,UAM-CSI,GLEU,,84.1
+26,Fluency,UAM-CSI,GLEU,,63.68
+27,Fluency,UAM-CSI,GLEU,,59.11
+28,Fluency,UAM-CSI,GLEU,,48.44
+29,Fluency,UAM-CSI,GLEU,,67.35
+30,Fluency,UAM-CSI,GLEU,,49.91
+31,Fluency,UAM-CSI,GLEU,,54.45
+32,Fluency,UAM-CSI,GLEU,,46.49
+33,Fluency,UAM-CSI,GLEU,,40.7
+34,Fluency,UAM-CSI,GLEU,,46.03
+35,Fluency,UAM-CSI,GLEU,,60.75
+36,Fluency,UAM-CSI,GLEU,,60.6
+37,Fluency,UAM-CSI,GLEU,,73.24
+38,Fluency,UAM-CSI,GLEU,,60.94
+39,Fluency,UAM-CSI,GLEU,,36.53
+40,Fluency,UAM-CSI,GLEU,,73.29
+41,Fluency,UAM-CSI,GLEU,,55.12
+42,Fluency,UAM-CSI,GLEU,,56.88
+43,Fluency,UAM-CSI,GLEU,,67.38
+44,Fluency,UAM-CSI,GLEU,,81.08
+45,Fluency,UAM-CSI,GLEU,,71.4
+46,Fluency,UAM-CSI,GLEU,,62.25
+47,Fluency,UAM-CSI,GLEU,,42.33
+48,Fluency,UAM-CSI,GLEU,,50.51
+49,Fluency,UAM-CSI,GLEU,,51.18
+50,Fluency,UAM-CSI,GLEU,,35.02
+1,Minimal,Viking-7B,GLEU,,35.19
+2,Minimal,Viking-7B,GLEU,,38.85
+3,Minimal,Viking-7B,GLEU,,28.19
+4,Minimal,Viking-7B,GLEU,,16.34
+5,Minimal,Viking-7B,GLEU,,59.42
+6,Minimal,Viking-7B,GLEU,,44.39
+7,Minimal,Viking-7B,GLEU,,45.98
+8,Minimal,Viking-7B,GLEU,,19.33
+9,Minimal,Viking-7B,GLEU,,14.94
+10,Minimal,Viking-7B,GLEU,,64.44
+11,Minimal,Viking-7B,GLEU,,63.44
+12,Minimal,Viking-7B,GLEU,,29.53
+13,Minimal,Viking-7B,GLEU,,41.98
+14,Minimal,Viking-7B,GLEU,,28.89
+15,Minimal,Viking-7B,GLEU,,59.29
+16,Minimal,Viking-7B,GLEU,,51.54
+17,Minimal,Viking-7B,GLEU,,53.79
+18,Minimal,Viking-7B,GLEU,,30.97
+19,Minimal,Viking-7B,GLEU,,23.5
+20,Minimal,Viking-7B,GLEU,,28.38
+21,Minimal,Viking-7B,GLEU,,27.1
+22,Minimal,Viking-7B,GLEU,,34.39
+23,Minimal,Viking-7B,GLEU,,42.59
+24,Minimal,Viking-7B,GLEU,,30.93
+25,Minimal,Viking-7B,GLEU,,84.98
+26,Minimal,Viking-7B,GLEU,,56.55
+27,Minimal,Viking-7B,GLEU,,52.22
+28,Minimal,Viking-7B,GLEU,,28.84
+29,Minimal,Viking-7B,GLEU,,68.18
+30,Minimal,Viking-7B,GLEU,,45.01
+31,Minimal,Viking-7B,GLEU,,41.65
+32,Minimal,Viking-7B,GLEU,,42.12
+33,Minimal,Viking-7B,GLEU,,28.18
+34,Minimal,Viking-7B,GLEU,,13.98
+35,Minimal,Viking-7B,GLEU,,52.3
+36,Minimal,Viking-7B,GLEU,,47.09
+37,Minimal,Viking-7B,GLEU,,75.37
+38,Minimal,Viking-7B,GLEU,,52.8
+39,Minimal,Viking-7B,GLEU,,36.42
+40,Minimal,Viking-7B,GLEU,,67.66
+41,Minimal,Viking-7B,GLEU,,58.49
+42,Minimal,Viking-7B,GLEU,,65.42
+43,Minimal,Viking-7B,GLEU,,50.54
+44,Minimal,Viking-7B,GLEU,,78.6
+45,Minimal,Viking-7B,GLEU,,62.09
+46,Minimal,Viking-7B,GLEU,,56.93
+47,Minimal,Viking-7B,GLEU,,42.88
+48,Minimal,Viking-7B,GLEU,,44.7
+49,Minimal,Viking-7B,GLEU,,52.23
+50,Minimal,Viking-7B,GLEU,,29.25
+1,Fluency,Viking-7B,GLEU,,32.66
+2,Fluency,Viking-7B,GLEU,,42.72
+3,Fluency,Viking-7B,GLEU,,25.35
+4,Fluency,Viking-7B,GLEU,,28.52
+5,Fluency,Viking-7B,GLEU,,60.64
+6,Fluency,Viking-7B,GLEU,,51.5
+7,Fluency,Viking-7B,GLEU,,53.12
+8,Fluency,Viking-7B,GLEU,,28.29
+9,Fluency,Viking-7B,GLEU,,15.94
+10,Fluency,Viking-7B,GLEU,,67.91
+11,Fluency,Viking-7B,GLEU,,60.52
+12,Fluency,Viking-7B,GLEU,,39.17
+13,Fluency,Viking-7B,GLEU,,46.5
+14,Fluency,Viking-7B,GLEU,,41.8
+15,Fluency,Viking-7B,GLEU,,65.15
+16,Fluency,Viking-7B,GLEU,,47.81
+17,Fluency,Viking-7B,GLEU,,51.52
+18,Fluency,Viking-7B,GLEU,,40.04
+19,Fluency,Viking-7B,GLEU,,27.3
+20,Fluency,Viking-7B,GLEU,,51.1
+21,Fluency,Viking-7B,GLEU,,20.24
+22,Fluency,Viking-7B,GLEU,,31.61
+23,Fluency,Viking-7B,GLEU,,47.55
+24,Fluency,Viking-7B,GLEU,,42.36
+25,Fluency,Viking-7B,GLEU,,80.1
+26,Fluency,Viking-7B,GLEU,,61.57
+27,Fluency,Viking-7B,GLEU,,43.28
+28,Fluency,Viking-7B,GLEU,,40.61
+29,Fluency,Viking-7B,GLEU,,73.66
+30,Fluency,Viking-7B,GLEU,,42.4
+31,Fluency,Viking-7B,GLEU,,50.4
+32,Fluency,Viking-7B,GLEU,,41.2
+33,Fluency,Viking-7B,GLEU,,39.67
+34,Fluency,Viking-7B,GLEU,,25.28
+35,Fluency,Viking-7B,GLEU,,59.28
+36,Fluency,Viking-7B,GLEU,,36.27
+37,Fluency,Viking-7B,GLEU,,76.31
+38,Fluency,Viking-7B,GLEU,,53.58
+39,Fluency,Viking-7B,GLEU,,39.21
+40,Fluency,Viking-7B,GLEU,,66.27
+41,Fluency,Viking-7B,GLEU,,58.6
+42,Fluency,Viking-7B,GLEU,,59.86
+43,Fluency,Viking-7B,GLEU,,49.65
+44,Fluency,Viking-7B,GLEU,,77.12
+45,Fluency,Viking-7B,GLEU,,66.14
+46,Fluency,Viking-7B,GLEU,,53.67
+47,Fluency,Viking-7B,GLEU,,40.09
+48,Fluency,Viking-7B,GLEU,,51.49
+49,Fluency,Viking-7B,GLEU,,44.72
+50,Fluency,Viking-7B,GLEU,,19.58
+1,Minimal,Viking-13B,GLEU,,34.96
+2,Minimal,Viking-13B,GLEU,,41.89
+3,Minimal,Viking-13B,GLEU,,36.23
+4,Minimal,Viking-13B,GLEU,,15.35
+5,Minimal,Viking-13B,GLEU,,59.98
+6,Minimal,Viking-13B,GLEU,,43.44
+7,Minimal,Viking-13B,GLEU,,43.46
+8,Minimal,Viking-13B,GLEU,,19.4
+9,Minimal,Viking-13B,GLEU,,17.03
+10,Minimal,Viking-13B,GLEU,,71.95
+11,Minimal,Viking-13B,GLEU,,68.37
+12,Minimal,Viking-13B,GLEU,,30.36
+13,Minimal,Viking-13B,GLEU,,37.42
+14,Minimal,Viking-13B,GLEU,,27.48
+15,Minimal,Viking-13B,GLEU,,58.51
+16,Minimal,Viking-13B,GLEU,,49.38
+17,Minimal,Viking-13B,GLEU,,56.07
+18,Minimal,Viking-13B,GLEU,,54.78
+19,Minimal,Viking-13B,GLEU,,38.15
+20,Minimal,Viking-13B,GLEU,,35.67
+21,Minimal,Viking-13B,GLEU,,49.63
+22,Minimal,Viking-13B,GLEU,,34.09
+23,Minimal,Viking-13B,GLEU,,46.03
+24,Minimal,Viking-13B,GLEU,,40.69
+25,Minimal,Viking-13B,GLEU,,82.51
+26,Minimal,Viking-13B,GLEU,,54.2
+27,Minimal,Viking-13B,GLEU,,50.57
+28,Minimal,Viking-13B,GLEU,,29.22
+29,Minimal,Viking-13B,GLEU,,59.74
+30,Minimal,Viking-13B,GLEU,,50.08
+31,Minimal,Viking-13B,GLEU,,42.72
+32,Minimal,Viking-13B,GLEU,,42.56
+33,Minimal,Viking-13B,GLEU,,24.33
+34,Minimal,Viking-13B,GLEU,,18.54
+35,Minimal,Viking-13B,GLEU,,54.74
+36,Minimal,Viking-13B,GLEU,,46.75
+37,Minimal,Viking-13B,GLEU,,66.06
+38,Minimal,Viking-13B,GLEU,,54.76
+39,Minimal,Viking-13B,GLEU,,41.19
+40,Minimal,Viking-13B,GLEU,,68.22
+41,Minimal,Viking-13B,GLEU,,61.22
+42,Minimal,Viking-13B,GLEU,,62.49
+43,Minimal,Viking-13B,GLEU,,48.9
+44,Minimal,Viking-13B,GLEU,,80.03
+45,Minimal,Viking-13B,GLEU,,62.09
+46,Minimal,Viking-13B,GLEU,,56.29
+47,Minimal,Viking-13B,GLEU,,39.72
+48,Minimal,Viking-13B,GLEU,,41.52
+49,Minimal,Viking-13B,GLEU,,49.08
+50,Minimal,Viking-13B,GLEU,,26.2
+1,Fluency,Viking-13B,GLEU,,31.66
+2,Fluency,Viking-13B,GLEU,,53.24
+3,Fluency,Viking-13B,GLEU,,36.72
+4,Fluency,Viking-13B,GLEU,,19.06
+5,Fluency,Viking-13B,GLEU,,60.21
+6,Fluency,Viking-13B,GLEU,,50.08
+7,Fluency,Viking-13B,GLEU,,45.68
+8,Fluency,Viking-13B,GLEU,,13.08
+9,Fluency,Viking-13B,GLEU,,40.36
+10,Fluency,Viking-13B,GLEU,,69.48
+11,Fluency,Viking-13B,GLEU,,68.37
+12,Fluency,Viking-13B,GLEU,,33.9
+13,Fluency,Viking-13B,GLEU,,43.52
+14,Fluency,Viking-13B,GLEU,,41.18
+15,Fluency,Viking-13B,GLEU,,60.78
+16,Fluency,Viking-13B,GLEU,,47.17
+17,Fluency,Viking-13B,GLEU,,56.55
+18,Fluency,Viking-13B,GLEU,,47.52
+19,Fluency,Viking-13B,GLEU,,42.26
+20,Fluency,Viking-13B,GLEU,,50.88
+21,Fluency,Viking-13B,GLEU,,35.93
+22,Fluency,Viking-13B,GLEU,,34.47
+23,Fluency,Viking-13B,GLEU,,48.53
+24,Fluency,Viking-13B,GLEU,,44.81
+25,Fluency,Viking-13B,GLEU,,81.22
+26,Fluency,Viking-13B,GLEU,,52.33
+27,Fluency,Viking-13B,GLEU,,43.71
+28,Fluency,Viking-13B,GLEU,,42.63
+29,Fluency,Viking-13B,GLEU,,71.23
+30,Fluency,Viking-13B,GLEU,,48.28
+31,Fluency,Viking-13B,GLEU,,52.17
+32,Fluency,Viking-13B,GLEU,,41.49
+33,Fluency,Viking-13B,GLEU,,35.96
+34,Fluency,Viking-13B,GLEU,,35.41
+35,Fluency,Viking-13B,GLEU,,54.26
+36,Fluency,Viking-13B,GLEU,,47.81
+37,Fluency,Viking-13B,GLEU,,70.34
+38,Fluency,Viking-13B,GLEU,,54.76
+39,Fluency,Viking-13B,GLEU,,39.66
+40,Fluency,Viking-13B,GLEU,,73.41
+41,Fluency,Viking-13B,GLEU,,62.61
+42,Fluency,Viking-13B,GLEU,,63.2
+43,Fluency,Viking-13B,GLEU,,53.53
+44,Fluency,Viking-13B,GLEU,,80.07
+45,Fluency,Viking-13B,GLEU,,70.12
+46,Fluency,Viking-13B,GLEU,,58.29
+47,Fluency,Viking-13B,GLEU,,41.48
+48,Fluency,Viking-13B,GLEU,,46.59
+49,Fluency,Viking-13B,GLEU,,51.57
+50,Fluency,Viking-13B,GLEU,,33.12
+1,Minimal,UAM-CSI,ERRANT,Precision,81.25
+2,Minimal,UAM-CSI,ERRANT,Precision,58.33
+3,Minimal,UAM-CSI,ERRANT,Precision,46.88
+4,Minimal,UAM-CSI,ERRANT,Precision,33.33
+5,Minimal,UAM-CSI,ERRANT,Precision,41.38
+6,Minimal,UAM-CSI,ERRANT,Precision,59.38
+7,Minimal,UAM-CSI,ERRANT,Precision,57.89
+8,Minimal,UAM-CSI,ERRANT,Precision,38.46
+9,Minimal,UAM-CSI,ERRANT,Precision,38.89
+10,Minimal,UAM-CSI,ERRANT,Precision,69.7
+11,Minimal,UAM-CSI,ERRANT,Precision,50.0
+12,Minimal,UAM-CSI,ERRANT,Precision,67.86
+13,Minimal,UAM-CSI,ERRANT,Precision,63.33
+14,Minimal,UAM-CSI,ERRANT,Precision,54.05
+15,Minimal,UAM-CSI,ERRANT,Precision,61.11
+16,Minimal,UAM-CSI,ERRANT,Precision,50.0
+17,Minimal,UAM-CSI,ERRANT,Precision,56.76
+18,Minimal,UAM-CSI,ERRANT,Precision,63.16
+19,Minimal,UAM-CSI,ERRANT,Precision,50.0
+20,Minimal,UAM-CSI,ERRANT,Precision,38.89
+21,Minimal,UAM-CSI,ERRANT,Precision,64.29
+22,Minimal,UAM-CSI,ERRANT,Precision,52.73
+23,Minimal,UAM-CSI,ERRANT,Precision,62.5
+24,Minimal,UAM-CSI,ERRANT,Precision,43.48
+25,Minimal,UAM-CSI,ERRANT,Precision,60.0
+26,Minimal,UAM-CSI,ERRANT,Precision,38.89
+27,Minimal,UAM-CSI,ERRANT,Precision,56.67
+28,Minimal,UAM-CSI,ERRANT,Precision,58.33
+29,Minimal,UAM-CSI,ERRANT,Precision,61.9
+30,Minimal,UAM-CSI,ERRANT,Precision,60.87
+31,Minimal,UAM-CSI,ERRANT,Precision,53.85
+32,Minimal,UAM-CSI,ERRANT,Precision,45.98
+33,Minimal,UAM-CSI,ERRANT,Precision,25.0
+34,Minimal,UAM-CSI,ERRANT,Precision,50.0
+35,Minimal,UAM-CSI,ERRANT,Precision,31.71
+36,Minimal,UAM-CSI,ERRANT,Precision,57.89
+37,Minimal,UAM-CSI,ERRANT,Precision,44.44
+38,Minimal,UAM-CSI,ERRANT,Precision,60.0
+39,Minimal,UAM-CSI,ERRANT,Precision,57.58
+40,Minimal,UAM-CSI,ERRANT,Precision,55.56
+41,Minimal,UAM-CSI,ERRANT,Precision,78.57
+42,Minimal,UAM-CSI,ERRANT,Precision,62.16
+43,Minimal,UAM-CSI,ERRANT,Precision,58.06
+44,Minimal,UAM-CSI,ERRANT,Precision,62.5
+45,Minimal,UAM-CSI,ERRANT,Precision,69.23
+46,Minimal,UAM-CSI,ERRANT,Precision,69.7
+47,Minimal,UAM-CSI,ERRANT,Precision,62.26
+48,Minimal,UAM-CSI,ERRANT,Precision,53.85
+49,Minimal,UAM-CSI,ERRANT,Precision,63.33
+50,Minimal,UAM-CSI,ERRANT,Precision,64.52
+1,Fluency,UAM-CSI,ERRANT,Precision,72.22
+2,Fluency,UAM-CSI,ERRANT,Precision,58.33
+3,Fluency,UAM-CSI,ERRANT,Precision,43.24
+4,Fluency,UAM-CSI,ERRANT,Precision,44.44
+5,Fluency,UAM-CSI,ERRANT,Precision,35.71
+6,Fluency,UAM-CSI,ERRANT,Precision,51.52
+7,Fluency,UAM-CSI,ERRANT,Precision,81.25
+8,Fluency,UAM-CSI,ERRANT,Precision,37.25
+9,Fluency,UAM-CSI,ERRANT,Precision,22.22
+10,Fluency,UAM-CSI,ERRANT,Precision,75.76
+11,Fluency,UAM-CSI,ERRANT,Precision,58.33
+12,Fluency,UAM-CSI,ERRANT,Precision,56.67
+13,Fluency,UAM-CSI,ERRANT,Precision,60.0
+14,Fluency,UAM-CSI,ERRANT,Precision,54.17
+15,Fluency,UAM-CSI,ERRANT,Precision,64.71
+16,Fluency,UAM-CSI,ERRANT,Precision,72.0
+17,Fluency,UAM-CSI,ERRANT,Precision,60.61
+18,Fluency,UAM-CSI,ERRANT,Precision,73.33
+19,Fluency,UAM-CSI,ERRANT,Precision,54.69
+20,Fluency,UAM-CSI,ERRANT,Precision,42.86
+21,Fluency,UAM-CSI,ERRANT,Precision,57.14
+22,Fluency,UAM-CSI,ERRANT,Precision,54.24
+23,Fluency,UAM-CSI,ERRANT,Precision,59.38
+24,Fluency,UAM-CSI,ERRANT,Precision,47.37
+25,Fluency,UAM-CSI,ERRANT,Precision,64.29
+26,Fluency,UAM-CSI,ERRANT,Precision,48.57
+27,Fluency,UAM-CSI,ERRANT,Precision,58.06
+28,Fluency,UAM-CSI,ERRANT,Precision,61.54
+29,Fluency,UAM-CSI,ERRANT,Precision,61.9
+30,Fluency,UAM-CSI,ERRANT,Precision,63.04
+31,Fluency,UAM-CSI,ERRANT,Precision,53.85
+32,Fluency,UAM-CSI,ERRANT,Precision,41.49
+33,Fluency,UAM-CSI,ERRANT,Precision,25.81
+34,Fluency,UAM-CSI,ERRANT,Precision,57.14
+35,Fluency,UAM-CSI,ERRANT,Precision,35.71
+36,Fluency,UAM-CSI,ERRANT,Precision,52.38
+37,Fluency,UAM-CSI,ERRANT,Precision,50.0
+38,Fluency,UAM-CSI,ERRANT,Precision,62.5
+39,Fluency,UAM-CSI,ERRANT,Precision,47.37
+40,Fluency,UAM-CSI,ERRANT,Precision,55.56
+41,Fluency,UAM-CSI,ERRANT,Precision,66.67
+42,Fluency,UAM-CSI,ERRANT,Precision,65.71
+43,Fluency,UAM-CSI,ERRANT,Precision,67.65
+44,Fluency,UAM-CSI,ERRANT,Precision,57.14
+45,Fluency,UAM-CSI,ERRANT,Precision,70.83
+46,Fluency,UAM-CSI,ERRANT,Precision,69.7
+47,Fluency,UAM-CSI,ERRANT,Precision,58.82
+48,Fluency,UAM-CSI,ERRANT,Precision,57.81
+49,Fluency,UAM-CSI,ERRANT,Precision,70.37
+50,Fluency,UAM-CSI,ERRANT,Precision,67.74
+1,Minimal,Viking-7B,ERRANT,Precision,70.59
+2,Minimal,Viking-7B,ERRANT,Precision,60.0
+3,Minimal,Viking-7B,ERRANT,Precision,59.09
+4,Minimal,Viking-7B,ERRANT,Precision,33.33
+5,Minimal,Viking-7B,ERRANT,Precision,39.13
+6,Minimal,Viking-7B,ERRANT,Precision,56.52
+7,Minimal,Viking-7B,ERRANT,Precision,60.0
+8,Minimal,Viking-7B,ERRANT,Precision,33.33
+9,Minimal,Viking-7B,ERRANT,Precision,33.33
+10,Minimal,Viking-7B,ERRANT,Precision,77.78
+11,Minimal,Viking-7B,ERRANT,Precision,35.0
+12,Minimal,Viking-7B,ERRANT,Precision,58.33
+13,Minimal,Viking-7B,ERRANT,Precision,64.0
+14,Minimal,Viking-7B,ERRANT,Precision,58.82
+15,Minimal,Viking-7B,ERRANT,Precision,75.0
+16,Minimal,Viking-7B,ERRANT,Precision,45.83
+17,Minimal,Viking-7B,ERRANT,Precision,72.0
+18,Minimal,Viking-7B,ERRANT,Precision,41.67
+19,Minimal,Viking-7B,ERRANT,Precision,44.23
+20,Minimal,Viking-7B,ERRANT,Precision,50.0
+21,Minimal,Viking-7B,ERRANT,Precision,66.67
+22,Minimal,Viking-7B,ERRANT,Precision,46.55
+23,Minimal,Viking-7B,ERRANT,Precision,53.85
+24,Minimal,Viking-7B,ERRANT,Precision,57.14
+25,Minimal,Viking-7B,ERRANT,Precision,64.29
+26,Minimal,Viking-7B,ERRANT,Precision,53.85
+27,Minimal,Viking-7B,ERRANT,Precision,50.0
+28,Minimal,Viking-7B,ERRANT,Precision,50.0
+29,Minimal,Viking-7B,ERRANT,Precision,63.16
+30,Minimal,Viking-7B,ERRANT,Precision,56.25
+31,Minimal,Viking-7B,ERRANT,Precision,62.5
+32,Minimal,Viking-7B,ERRANT,Precision,46.25
+33,Minimal,Viking-7B,ERRANT,Precision,29.63
+34,Minimal,Viking-7B,ERRANT,Precision,61.54
+35,Minimal,Viking-7B,ERRANT,Precision,50.0
+36,Minimal,Viking-7B,ERRANT,Precision,44.44
+37,Minimal,Viking-7B,ERRANT,Precision,45.45
+38,Minimal,Viking-7B,ERRANT,Precision,56.25
+39,Minimal,Viking-7B,ERRANT,Precision,50.0
+40,Minimal,Viking-7B,ERRANT,Precision,50.0
+41,Minimal,Viking-7B,ERRANT,Precision,74.07
+42,Minimal,Viking-7B,ERRANT,Precision,62.16
+43,Minimal,Viking-7B,ERRANT,Precision,34.29
+44,Minimal,Viking-7B,ERRANT,Precision,50.0
+45,Minimal,Viking-7B,ERRANT,Precision,64.29
+46,Minimal,Viking-7B,ERRANT,Precision,44.74
+47,Minimal,Viking-7B,ERRANT,Precision,52.27
+48,Minimal,Viking-7B,ERRANT,Precision,47.76
+49,Minimal,Viking-7B,ERRANT,Precision,60.71
+50,Minimal,Viking-7B,ERRANT,Precision,45.16
+1,Fluency,Viking-7B,ERRANT,Precision,60.0
+2,Fluency,Viking-7B,ERRANT,Precision,46.15
+3,Fluency,Viking-7B,ERRANT,Precision,45.83
+4,Fluency,Viking-7B,ERRANT,Precision,30.3
+5,Fluency,Viking-7B,ERRANT,Precision,33.33
+6,Fluency,Viking-7B,ERRANT,Precision,44.12
+7,Fluency,Viking-7B,ERRANT,Precision,50.0
+8,Fluency,Viking-7B,ERRANT,Precision,21.31
+9,Fluency,Viking-7B,ERRANT,Precision,37.5
+10,Fluency,Viking-7B,ERRANT,Precision,62.86
+11,Fluency,Viking-7B,ERRANT,Precision,41.18
+12,Fluency,Viking-7B,ERRANT,Precision,50.0
+13,Fluency,Viking-7B,ERRANT,Precision,39.29
+14,Fluency,Viking-7B,ERRANT,Precision,43.48
+15,Fluency,Viking-7B,ERRANT,Precision,76.47
+16,Fluency,Viking-7B,ERRANT,Precision,51.72
+17,Fluency,Viking-7B,ERRANT,Precision,59.09
+18,Fluency,Viking-7B,ERRANT,Precision,47.37
+19,Fluency,Viking-7B,ERRANT,Precision,40.68
+20,Fluency,Viking-7B,ERRANT,Precision,50.0
+21,Fluency,Viking-7B,ERRANT,Precision,50.0
+22,Fluency,Viking-7B,ERRANT,Precision,41.82
+23,Fluency,Viking-7B,ERRANT,Precision,47.06
+24,Fluency,Viking-7B,ERRANT,Precision,31.03
+25,Fluency,Viking-7B,ERRANT,Precision,39.13
+26,Fluency,Viking-7B,ERRANT,Precision,40.74
+27,Fluency,Viking-7B,ERRANT,Precision,37.93
+28,Fluency,Viking-7B,ERRANT,Precision,40.0
+29,Fluency,Viking-7B,ERRANT,Precision,71.43
+30,Fluency,Viking-7B,ERRANT,Precision,43.4
+31,Fluency,Viking-7B,ERRANT,Precision,56.1
+32,Fluency,Viking-7B,ERRANT,Precision,33.68
+33,Fluency,Viking-7B,ERRANT,Precision,35.48
+34,Fluency,Viking-7B,ERRANT,Precision,32.35
+35,Fluency,Viking-7B,ERRANT,Precision,28.95
+36,Fluency,Viking-7B,ERRANT,Precision,25.0
+37,Fluency,Viking-7B,ERRANT,Precision,60.0
+38,Fluency,Viking-7B,ERRANT,Precision,52.94
+39,Fluency,Viking-7B,ERRANT,Precision,41.86
+40,Fluency,Viking-7B,ERRANT,Precision,42.86
+41,Fluency,Viking-7B,ERRANT,Precision,64.52
+42,Fluency,Viking-7B,ERRANT,Precision,53.85
+43,Fluency,Viking-7B,ERRANT,Precision,32.26
+44,Fluency,Viking-7B,ERRANT,Precision,50.0
+45,Fluency,Viking-7B,ERRANT,Precision,65.0
+46,Fluency,Viking-7B,ERRANT,Precision,39.02
+47,Fluency,Viking-7B,ERRANT,Precision,43.64
+48,Fluency,Viking-7B,ERRANT,Precision,45.45
+49,Fluency,Viking-7B,ERRANT,Precision,48.28
+50,Fluency,Viking-7B,ERRANT,Precision,34.48
+1,Minimal,Viking-13B,ERRANT,Precision,69.7
+2,Minimal,Viking-13B,ERRANT,Precision,70.0
+3,Minimal,Viking-13B,ERRANT,Precision,38.24
+4,Minimal,Viking-13B,ERRANT,Precision,39.13
+5,Minimal,Viking-13B,ERRANT,Precision,47.62
+6,Minimal,Viking-13B,ERRANT,Precision,51.85
+7,Minimal,Viking-13B,ERRANT,Precision,50.0
+8,Minimal,Viking-13B,ERRANT,Precision,35.56
+9,Minimal,Viking-13B,ERRANT,Precision,45.45
+10,Minimal,Viking-13B,ERRANT,Precision,78.79
+11,Minimal,Viking-13B,ERRANT,Precision,60.0
+12,Minimal,Viking-13B,ERRANT,Precision,53.85
+13,Minimal,Viking-13B,ERRANT,Precision,66.67
+14,Minimal,Viking-13B,ERRANT,Precision,56.25
+15,Minimal,Viking-13B,ERRANT,Precision,66.67
+16,Minimal,Viking-13B,ERRANT,Precision,57.14
+17,Minimal,Viking-13B,ERRANT,Precision,70.0
+18,Minimal,Viking-13B,ERRANT,Precision,85.71
+19,Minimal,Viking-13B,ERRANT,Precision,54.41
+20,Minimal,Viking-13B,ERRANT,Precision,61.54
+21,Minimal,Viking-13B,ERRANT,Precision,73.33
+22,Minimal,Viking-13B,ERRANT,Precision,53.06
+23,Minimal,Viking-13B,ERRANT,Precision,42.42
+24,Minimal,Viking-13B,ERRANT,Precision,50.0
+25,Minimal,Viking-13B,ERRANT,Precision,69.23
+26,Minimal,Viking-13B,ERRANT,Precision,50.0
+27,Minimal,Viking-13B,ERRANT,Precision,51.72
+28,Minimal,Viking-13B,ERRANT,Precision,87.5
+29,Minimal,Viking-13B,ERRANT,Precision,64.29
+30,Minimal,Viking-13B,ERRANT,Precision,66.67
+31,Minimal,Viking-13B,ERRANT,Precision,47.37
+32,Minimal,Viking-13B,ERRANT,Precision,36.78
+33,Minimal,Viking-13B,ERRANT,Precision,33.33
+34,Minimal,Viking-13B,ERRANT,Precision,42.31
+35,Minimal,Viking-13B,ERRANT,Precision,52.17
+36,Minimal,Viking-13B,ERRANT,Precision,32.0
+37,Minimal,Viking-13B,ERRANT,Precision,66.67
+38,Minimal,Viking-13B,ERRANT,Precision,58.82
+39,Minimal,Viking-13B,ERRANT,Precision,53.12
+40,Minimal,Viking-13B,ERRANT,Precision,40.0
+41,Minimal,Viking-13B,ERRANT,Precision,71.43
+42,Minimal,Viking-13B,ERRANT,Precision,62.16
+43,Minimal,Viking-13B,ERRANT,Precision,48.48
+44,Minimal,Viking-13B,ERRANT,Precision,66.67
+45,Minimal,Viking-13B,ERRANT,Precision,64.29
+46,Minimal,Viking-13B,ERRANT,Precision,43.24
+47,Minimal,Viking-13B,ERRANT,Precision,55.81
+48,Minimal,Viking-13B,ERRANT,Precision,46.3
+49,Minimal,Viking-13B,ERRANT,Precision,65.38
+50,Minimal,Viking-13B,ERRANT,Precision,53.85
+1,Fluency,Viking-13B,ERRANT,Precision,55.56
+2,Fluency,Viking-13B,ERRANT,Precision,46.67
+3,Fluency,Viking-13B,ERRANT,Precision,37.5
+4,Fluency,Viking-13B,ERRANT,Precision,41.67
+5,Fluency,Viking-13B,ERRANT,Precision,37.04
+6,Fluency,Viking-13B,ERRANT,Precision,42.42
+7,Fluency,Viking-13B,ERRANT,Precision,35.29
+8,Fluency,Viking-13B,ERRANT,Precision,26.83
+9,Fluency,Viking-13B,ERRANT,Precision,37.5
+10,Fluency,Viking-13B,ERRANT,Precision,71.05
+11,Fluency,Viking-13B,ERRANT,Precision,60.0
+12,Fluency,Viking-13B,ERRANT,Precision,56.0
+13,Fluency,Viking-13B,ERRANT,Precision,42.31
+14,Fluency,Viking-13B,ERRANT,Precision,45.31
+15,Fluency,Viking-13B,ERRANT,Precision,57.89
+16,Fluency,Viking-13B,ERRANT,Precision,38.71
+17,Fluency,Viking-13B,ERRANT,Precision,72.41
+18,Fluency,Viking-13B,ERRANT,Precision,46.67
+19,Fluency,Viking-13B,ERRANT,Precision,39.24
+20,Fluency,Viking-13B,ERRANT,Precision,58.82
+21,Fluency,Viking-13B,ERRANT,Precision,61.54
+22,Fluency,Viking-13B,ERRANT,Precision,45.9
+23,Fluency,Viking-13B,ERRANT,Precision,52.94
+24,Fluency,Viking-13B,ERRANT,Precision,55.0
+25,Fluency,Viking-13B,ERRANT,Precision,47.62
+26,Fluency,Viking-13B,ERRANT,Precision,37.5
+27,Fluency,Viking-13B,ERRANT,Precision,44.83
+28,Fluency,Viking-13B,ERRANT,Precision,47.06
+29,Fluency,Viking-13B,ERRANT,Precision,80.0
+30,Fluency,Viking-13B,ERRANT,Precision,69.23
+31,Fluency,Viking-13B,ERRANT,Precision,37.1
+32,Fluency,Viking-13B,ERRANT,Precision,31.4
+33,Fluency,Viking-13B,ERRANT,Precision,22.73
+34,Fluency,Viking-13B,ERRANT,Precision,36.11
+35,Fluency,Viking-13B,ERRANT,Precision,48.0
+36,Fluency,Viking-13B,ERRANT,Precision,28.57
+37,Fluency,Viking-13B,ERRANT,Precision,38.1
+38,Fluency,Viking-13B,ERRANT,Precision,58.82
+39,Fluency,Viking-13B,ERRANT,Precision,32.5
+40,Fluency,Viking-13B,ERRANT,Precision,47.62
+41,Fluency,Viking-13B,ERRANT,Precision,50.0
+42,Fluency,Viking-13B,ERRANT,Precision,58.97
+43,Fluency,Viking-13B,ERRANT,Precision,43.24
+44,Fluency,Viking-13B,ERRANT,Precision,66.67
+45,Fluency,Viking-13B,ERRANT,Precision,57.69
+46,Fluency,Viking-13B,ERRANT,Precision,45.95
+47,Fluency,Viking-13B,ERRANT,Precision,40.68
+48,Fluency,Viking-13B,ERRANT,Precision,42.65
+49,Fluency,Viking-13B,ERRANT,Precision,58.62
+50,Fluency,Viking-13B,ERRANT,Precision,51.52
+1,Minimal,UAM-CSI,ERRANT,Recall,74.29
+2,Minimal,UAM-CSI,ERRANT,Recall,77.78
+3,Minimal,UAM-CSI,ERRANT,Recall,50.0
+4,Minimal,UAM-CSI,ERRANT,Recall,25.64
+5,Minimal,UAM-CSI,ERRANT,Recall,54.55
+6,Minimal,UAM-CSI,ERRANT,Recall,51.35
+7,Minimal,UAM-CSI,ERRANT,Recall,52.38
+8,Minimal,UAM-CSI,ERRANT,Recall,26.32
+9,Minimal,UAM-CSI,ERRANT,Recall,18.42
+10,Minimal,UAM-CSI,ERRANT,Recall,71.88
+11,Minimal,UAM-CSI,ERRANT,Recall,58.33
+12,Minimal,UAM-CSI,ERRANT,Recall,67.86
+13,Minimal,UAM-CSI,ERRANT,Recall,61.29
+14,Minimal,UAM-CSI,ERRANT,Recall,44.94
+15,Minimal,UAM-CSI,ERRANT,Recall,61.11
+16,Minimal,UAM-CSI,ERRANT,Recall,46.43
+17,Minimal,UAM-CSI,ERRANT,Recall,37.5
+18,Minimal,UAM-CSI,ERRANT,Recall,70.59
+19,Minimal,UAM-CSI,ERRANT,Recall,35.42
+20,Minimal,UAM-CSI,ERRANT,Recall,41.18
+21,Minimal,UAM-CSI,ERRANT,Recall,47.37
+22,Minimal,UAM-CSI,ERRANT,Recall,39.19
+23,Minimal,UAM-CSI,ERRANT,Recall,51.28
+24,Minimal,UAM-CSI,ERRANT,Recall,40.0
+25,Minimal,UAM-CSI,ERRANT,Recall,69.23
+26,Minimal,UAM-CSI,ERRANT,Recall,31.11
+27,Minimal,UAM-CSI,ERRANT,Recall,56.67
+28,Minimal,UAM-CSI,ERRANT,Recall,41.18
+29,Minimal,UAM-CSI,ERRANT,Recall,54.17
+30,Minimal,UAM-CSI,ERRANT,Recall,59.57
+31,Minimal,UAM-CSI,ERRANT,Recall,39.44
+32,Minimal,UAM-CSI,ERRANT,Recall,39.6
+33,Minimal,UAM-CSI,ERRANT,Recall,21.88
+34,Minimal,UAM-CSI,ERRANT,Recall,32.56
+35,Minimal,UAM-CSI,ERRANT,Recall,22.41
+36,Minimal,UAM-CSI,ERRANT,Recall,47.83
+37,Minimal,UAM-CSI,ERRANT,Recall,26.67
+38,Minimal,UAM-CSI,ERRANT,Recall,52.94
+39,Minimal,UAM-CSI,ERRANT,Recall,48.72
+40,Minimal,UAM-CSI,ERRANT,Recall,43.48
+41,Minimal,UAM-CSI,ERRANT,Recall,70.97
+42,Minimal,UAM-CSI,ERRANT,Recall,65.71
+43,Minimal,UAM-CSI,ERRANT,Recall,50.0
+44,Minimal,UAM-CSI,ERRANT,Recall,41.67
+45,Minimal,UAM-CSI,ERRANT,Recall,54.55
+46,Minimal,UAM-CSI,ERRANT,Recall,69.7
+47,Minimal,UAM-CSI,ERRANT,Recall,42.31
+48,Minimal,UAM-CSI,ERRANT,Recall,47.95
+49,Minimal,UAM-CSI,ERRANT,Recall,67.86
+50,Minimal,UAM-CSI,ERRANT,Recall,52.63
+1,Fluency,UAM-CSI,ERRANT,Recall,74.29
+2,Fluency,UAM-CSI,ERRANT,Recall,77.78
+3,Fluency,UAM-CSI,ERRANT,Recall,53.33
+4,Fluency,UAM-CSI,ERRANT,Recall,30.77
+5,Fluency,UAM-CSI,ERRANT,Recall,45.45
+6,Fluency,UAM-CSI,ERRANT,Recall,45.95
+7,Fluency,UAM-CSI,ERRANT,Recall,61.9
+8,Fluency,UAM-CSI,ERRANT,Recall,33.33
+9,Fluency,UAM-CSI,ERRANT,Recall,10.53
+10,Fluency,UAM-CSI,ERRANT,Recall,78.12
+11,Fluency,UAM-CSI,ERRANT,Recall,58.33
+12,Fluency,UAM-CSI,ERRANT,Recall,60.71
+13,Fluency,UAM-CSI,ERRANT,Recall,58.06
+14,Fluency,UAM-CSI,ERRANT,Recall,43.82
+15,Fluency,UAM-CSI,ERRANT,Recall,61.11
+16,Fluency,UAM-CSI,ERRANT,Recall,64.29
+17,Fluency,UAM-CSI,ERRANT,Recall,35.71
+18,Fluency,UAM-CSI,ERRANT,Recall,64.71
+19,Fluency,UAM-CSI,ERRANT,Recall,36.46
+20,Fluency,UAM-CSI,ERRANT,Recall,35.29
+21,Fluency,UAM-CSI,ERRANT,Recall,42.11
+22,Fluency,UAM-CSI,ERRANT,Recall,43.24
+23,Fluency,UAM-CSI,ERRANT,Recall,48.72
+24,Fluency,UAM-CSI,ERRANT,Recall,36.0
+25,Fluency,UAM-CSI,ERRANT,Recall,69.23
+26,Fluency,UAM-CSI,ERRANT,Recall,37.78
+27,Fluency,UAM-CSI,ERRANT,Recall,60.0
+28,Fluency,UAM-CSI,ERRANT,Recall,47.06
+29,Fluency,UAM-CSI,ERRANT,Recall,54.17
+30,Fluency,UAM-CSI,ERRANT,Recall,61.7
+31,Fluency,UAM-CSI,ERRANT,Recall,39.44
+32,Fluency,UAM-CSI,ERRANT,Recall,38.61
+33,Fluency,UAM-CSI,ERRANT,Recall,23.53
+34,Fluency,UAM-CSI,ERRANT,Recall,37.21
+35,Fluency,UAM-CSI,ERRANT,Recall,25.86
+36,Fluency,UAM-CSI,ERRANT,Recall,47.83
+37,Fluency,UAM-CSI,ERRANT,Recall,33.33
+38,Fluency,UAM-CSI,ERRANT,Recall,58.82
+39,Fluency,UAM-CSI,ERRANT,Recall,46.15
+40,Fluency,UAM-CSI,ERRANT,Recall,62.5
+41,Fluency,UAM-CSI,ERRANT,Recall,58.06
+42,Fluency,UAM-CSI,ERRANT,Recall,65.71
+43,Fluency,UAM-CSI,ERRANT,Recall,63.89
+44,Fluency,UAM-CSI,ERRANT,Recall,33.33
+45,Fluency,UAM-CSI,ERRANT,Recall,51.52
+46,Fluency,UAM-CSI,ERRANT,Recall,69.7
+47,Fluency,UAM-CSI,ERRANT,Recall,38.46
+48,Fluency,UAM-CSI,ERRANT,Recall,50.68
+49,Fluency,UAM-CSI,ERRANT,Recall,67.86
+50,Fluency,UAM-CSI,ERRANT,Recall,55.26
+1,Minimal,Viking-7B,ERRANT,Recall,68.57
+2,Minimal,Viking-7B,ERRANT,Recall,66.67
+3,Minimal,Viking-7B,ERRANT,Recall,43.33
+4,Minimal,Viking-7B,ERRANT,Recall,20.51
+5,Minimal,Viking-7B,ERRANT,Recall,40.91
+6,Minimal,Viking-7B,ERRANT,Recall,35.14
+7,Minimal,Viking-7B,ERRANT,Recall,42.86
+8,Minimal,Viking-7B,ERRANT,Recall,26.32
+9,Minimal,Viking-7B,ERRANT,Recall,10.53
+10,Minimal,Viking-7B,ERRANT,Recall,65.62
+11,Minimal,Viking-7B,ERRANT,Recall,58.33
+12,Minimal,Viking-7B,ERRANT,Recall,50.0
+13,Minimal,Viking-7B,ERRANT,Recall,51.61
+14,Minimal,Viking-7B,ERRANT,Recall,33.71
+15,Minimal,Viking-7B,ERRANT,Recall,66.67
+16,Minimal,Viking-7B,ERRANT,Recall,39.29
+17,Minimal,Viking-7B,ERRANT,Recall,32.14
+18,Minimal,Viking-7B,ERRANT,Recall,29.41
+19,Minimal,Viking-7B,ERRANT,Recall,23.96
+20,Minimal,Viking-7B,ERRANT,Recall,16.67
+21,Minimal,Viking-7B,ERRANT,Recall,42.11
+22,Minimal,Viking-7B,ERRANT,Recall,36.49
+23,Minimal,Viking-7B,ERRANT,Recall,35.9
+24,Minimal,Viking-7B,ERRANT,Recall,16.0
+25,Minimal,Viking-7B,ERRANT,Recall,69.23
+26,Minimal,Viking-7B,ERRANT,Recall,15.56
+27,Minimal,Viking-7B,ERRANT,Recall,50.0
+28,Minimal,Viking-7B,ERRANT,Recall,35.29
+29,Minimal,Viking-7B,ERRANT,Recall,50.0
+30,Minimal,Viking-7B,ERRANT,Recall,57.45
+31,Minimal,Viking-7B,ERRANT,Recall,28.17
+32,Minimal,Viking-7B,ERRANT,Recall,36.63
+33,Minimal,Viking-7B,ERRANT,Recall,23.53
+34,Minimal,Viking-7B,ERRANT,Recall,18.6
+35,Minimal,Viking-7B,ERRANT,Recall,10.67
+36,Minimal,Viking-7B,ERRANT,Recall,34.78
+37,Minimal,Viking-7B,ERRANT,Recall,33.33
+38,Minimal,Viking-7B,ERRANT,Recall,52.94
+39,Minimal,Viking-7B,ERRANT,Recall,51.28
+40,Minimal,Viking-7B,ERRANT,Recall,34.78
+41,Minimal,Viking-7B,ERRANT,Recall,64.52
+42,Minimal,Viking-7B,ERRANT,Recall,65.71
+43,Minimal,Viking-7B,ERRANT,Recall,33.33
+44,Minimal,Viking-7B,ERRANT,Recall,16.67
+45,Minimal,Viking-7B,ERRANT,Recall,27.27
+46,Minimal,Viking-7B,ERRANT,Recall,51.52
+47,Minimal,Viking-7B,ERRANT,Recall,29.49
+48,Minimal,Viking-7B,ERRANT,Recall,43.84
+49,Minimal,Viking-7B,ERRANT,Recall,60.71
+50,Minimal,Viking-7B,ERRANT,Recall,36.84
+1,Fluency,Viking-7B,ERRANT,Recall,68.57
+2,Fluency,Viking-7B,ERRANT,Recall,66.67
+3,Fluency,Viking-7B,ERRANT,Recall,36.67
+4,Fluency,Viking-7B,ERRANT,Recall,25.64
+5,Fluency,Viking-7B,ERRANT,Recall,45.45
+6,Fluency,Viking-7B,ERRANT,Recall,40.54
+7,Fluency,Viking-7B,ERRANT,Recall,37.04
+8,Fluency,Viking-7B,ERRANT,Recall,22.81
+9,Fluency,Viking-7B,ERRANT,Recall,15.79
+10,Fluency,Viking-7B,ERRANT,Recall,68.75
+11,Fluency,Viking-7B,ERRANT,Recall,58.33
+12,Fluency,Viking-7B,ERRANT,Recall,50.0
+13,Fluency,Viking-7B,ERRANT,Recall,35.48
+14,Fluency,Viking-7B,ERRANT,Recall,33.71
+15,Fluency,Viking-7B,ERRANT,Recall,72.22
+16,Fluency,Viking-7B,ERRANT,Recall,53.57
+17,Fluency,Viking-7B,ERRANT,Recall,23.21
+18,Fluency,Viking-7B,ERRANT,Recall,52.94
+19,Fluency,Viking-7B,ERRANT,Recall,25.0
+20,Fluency,Viking-7B,ERRANT,Recall,58.82
+21,Fluency,Viking-7B,ERRANT,Recall,31.58
+22,Fluency,Viking-7B,ERRANT,Recall,31.08
+23,Fluency,Viking-7B,ERRANT,Recall,41.03
+24,Fluency,Viking-7B,ERRANT,Recall,36.0
+25,Fluency,Viking-7B,ERRANT,Recall,69.23
+26,Fluency,Viking-7B,ERRANT,Recall,24.44
+27,Fluency,Viking-7B,ERRANT,Recall,36.67
+28,Fluency,Viking-7B,ERRANT,Recall,29.63
+29,Fluency,Viking-7B,ERRANT,Recall,50.0
+30,Fluency,Viking-7B,ERRANT,Recall,36.51
+31,Fluency,Viking-7B,ERRANT,Recall,32.39
+32,Fluency,Viking-7B,ERRANT,Recall,31.68
+33,Fluency,Viking-7B,ERRANT,Recall,32.35
+34,Fluency,Viking-7B,ERRANT,Recall,25.58
+35,Fluency,Viking-7B,ERRANT,Recall,14.67
+36,Fluency,Viking-7B,ERRANT,Recall,30.43
+37,Fluency,Viking-7B,ERRANT,Recall,40.0
+38,Fluency,Viking-7B,ERRANT,Recall,52.94
+39,Fluency,Viking-7B,ERRANT,Recall,46.15
+40,Fluency,Viking-7B,ERRANT,Recall,39.13
+41,Fluency,Viking-7B,ERRANT,Recall,64.52
+42,Fluency,Viking-7B,ERRANT,Recall,60.0
+43,Fluency,Viking-7B,ERRANT,Recall,27.78
+44,Fluency,Viking-7B,ERRANT,Recall,8.33
+45,Fluency,Viking-7B,ERRANT,Recall,39.39
+46,Fluency,Viking-7B,ERRANT,Recall,37.21
+47,Fluency,Viking-7B,ERRANT,Recall,27.59
+48,Fluency,Viking-7B,ERRANT,Recall,41.1
+49,Fluency,Viking-7B,ERRANT,Recall,50.0
+50,Fluency,Viking-7B,ERRANT,Recall,26.32
+1,Minimal,Viking-13B,ERRANT,Recall,65.71
+2,Minimal,Viking-13B,ERRANT,Recall,77.78
+3,Minimal,Viking-13B,ERRANT,Recall,43.33
+4,Minimal,Viking-13B,ERRANT,Recall,23.08
+5,Minimal,Viking-13B,ERRANT,Recall,45.45
+6,Minimal,Viking-13B,ERRANT,Recall,37.84
+7,Minimal,Viking-13B,ERRANT,Recall,33.33
+8,Minimal,Viking-13B,ERRANT,Recall,28.07
+9,Minimal,Viking-13B,ERRANT,Recall,13.16
+10,Minimal,Viking-13B,ERRANT,Recall,81.25
+11,Minimal,Viking-13B,ERRANT,Recall,75.0
+12,Minimal,Viking-13B,ERRANT,Recall,50.0
+13,Minimal,Viking-13B,ERRANT,Recall,45.16
+14,Minimal,Viking-13B,ERRANT,Recall,30.34
+15,Minimal,Viking-13B,ERRANT,Recall,55.56
+16,Minimal,Viking-13B,ERRANT,Recall,42.86
+17,Minimal,Viking-13B,ERRANT,Recall,37.5
+18,Minimal,Viking-13B,ERRANT,Recall,70.59
+19,Minimal,Viking-13B,ERRANT,Recall,38.54
+20,Minimal,Viking-13B,ERRANT,Recall,47.06
+21,Minimal,Viking-13B,ERRANT,Recall,57.89
+22,Minimal,Viking-13B,ERRANT,Recall,35.14
+23,Minimal,Viking-13B,ERRANT,Recall,35.9
+24,Minimal,Viking-13B,ERRANT,Recall,36.0
+25,Minimal,Viking-13B,ERRANT,Recall,69.23
+26,Minimal,Viking-13B,ERRANT,Recall,11.11
+27,Minimal,Viking-13B,ERRANT,Recall,50.0
+28,Minimal,Viking-13B,ERRANT,Recall,41.18
+29,Minimal,Viking-13B,ERRANT,Recall,37.5
+30,Minimal,Viking-13B,ERRANT,Recall,59.57
+31,Minimal,Viking-13B,ERRANT,Recall,25.35
+32,Minimal,Viking-13B,ERRANT,Recall,31.68
+33,Minimal,Viking-13B,ERRANT,Recall,23.53
+34,Minimal,Viking-13B,ERRANT,Recall,25.58
+35,Minimal,Viking-13B,ERRANT,Recall,16.0
+36,Minimal,Viking-13B,ERRANT,Recall,34.78
+37,Minimal,Viking-13B,ERRANT,Recall,26.67
+38,Minimal,Viking-13B,ERRANT,Recall,58.82
+39,Minimal,Viking-13B,ERRANT,Recall,43.59
+40,Minimal,Viking-13B,ERRANT,Recall,37.5
+41,Minimal,Viking-13B,ERRANT,Recall,64.52
+42,Minimal,Viking-13B,ERRANT,Recall,65.71
+43,Minimal,Viking-13B,ERRANT,Recall,44.44
+44,Minimal,Viking-13B,ERRANT,Recall,33.33
+45,Minimal,Viking-13B,ERRANT,Recall,27.27
+46,Minimal,Viking-13B,ERRANT,Recall,48.48
+47,Minimal,Viking-13B,ERRANT,Recall,30.77
+48,Minimal,Viking-13B,ERRANT,Recall,34.25
+49,Minimal,Viking-13B,ERRANT,Recall,60.71
+50,Minimal,Viking-13B,ERRANT,Recall,36.84
+1,Fluency,Viking-13B,ERRANT,Recall,57.14
+2,Fluency,Viking-13B,ERRANT,Recall,77.78
+3,Fluency,Viking-13B,ERRANT,Recall,40.0
+4,Fluency,Viking-13B,ERRANT,Recall,25.64
+5,Fluency,Viking-13B,ERRANT,Recall,45.45
+6,Fluency,Viking-13B,ERRANT,Recall,37.84
+7,Fluency,Viking-13B,ERRANT,Recall,28.57
+8,Fluency,Viking-13B,ERRANT,Recall,19.3
+9,Fluency,Viking-13B,ERRANT,Recall,26.67
+10,Fluency,Viking-13B,ERRANT,Recall,84.38
+11,Fluency,Viking-13B,ERRANT,Recall,75.0
+12,Fluency,Viking-13B,ERRANT,Recall,50.0
+13,Fluency,Viking-13B,ERRANT,Recall,35.48
+14,Fluency,Viking-13B,ERRANT,Recall,32.58
+15,Fluency,Viking-13B,ERRANT,Recall,61.11
+16,Fluency,Viking-13B,ERRANT,Recall,42.86
+17,Fluency,Viking-13B,ERRANT,Recall,37.5
+18,Fluency,Viking-13B,ERRANT,Recall,41.18
+19,Fluency,Viking-13B,ERRANT,Recall,32.29
+20,Fluency,Viking-13B,ERRANT,Recall,58.82
+21,Fluency,Viking-13B,ERRANT,Recall,42.11
+22,Fluency,Viking-13B,ERRANT,Recall,37.84
+23,Fluency,Viking-13B,ERRANT,Recall,46.15
+24,Fluency,Viking-13B,ERRANT,Recall,24.44
+25,Fluency,Viking-13B,ERRANT,Recall,76.92
+26,Fluency,Viking-13B,ERRANT,Recall,6.67
+27,Fluency,Viking-13B,ERRANT,Recall,43.33
+28,Fluency,Viking-13B,ERRANT,Recall,29.63
+29,Fluency,Viking-13B,ERRANT,Recall,53.33
+30,Fluency,Viking-13B,ERRANT,Recall,57.45
+31,Fluency,Viking-13B,ERRANT,Recall,32.39
+32,Fluency,Viking-13B,ERRANT,Recall,26.73
+33,Fluency,Viking-13B,ERRANT,Recall,29.41
+34,Fluency,Viking-13B,ERRANT,Recall,30.23
+35,Fluency,Viking-13B,ERRANT,Recall,16.0
+36,Fluency,Viking-13B,ERRANT,Recall,34.78
+37,Fluency,Viking-13B,ERRANT,Recall,53.33
+38,Fluency,Viking-13B,ERRANT,Recall,58.82
+39,Fluency,Viking-13B,ERRANT,Recall,25.0
+40,Fluency,Viking-13B,ERRANT,Recall,43.48
+41,Fluency,Viking-13B,ERRANT,Recall,51.61
+42,Fluency,Viking-13B,ERRANT,Recall,65.71
+43,Fluency,Viking-13B,ERRANT,Recall,44.44
+44,Fluency,Viking-13B,ERRANT,Recall,33.33
+45,Fluency,Viking-13B,ERRANT,Recall,45.45
+46,Fluency,Viking-13B,ERRANT,Recall,51.52
+47,Fluency,Viking-13B,ERRANT,Recall,27.59
+48,Fluency,Viking-13B,ERRANT,Recall,39.73
+49,Fluency,Viking-13B,ERRANT,Recall,60.71
+50,Fluency,Viking-13B,ERRANT,Recall,44.74
+1,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,79.75
+2,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,61.4
+3,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,47.47
+4,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,31.45
+5,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,43.48
+6,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,57.58
+7,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.7
+8,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,35.21
+9,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,31.82
+10,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,70.12
+11,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,51.47
+12,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,67.86
+13,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,62.91
+14,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,51.95
+15,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,61.11
+16,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,49.24
+17,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,51.47
+18,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,64.52
+19,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,46.2
+20,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,39.33
+21,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,60.0
+22,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,49.32
+23,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,59.88
+24,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,42.74
+25,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,61.64
+26,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,37.04
+27,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.67
+28,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,53.85
+29,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,60.19
+30,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,60.61
+31,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,50.18
+32,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,44.54
+33,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,24.31
+34,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,45.16
+35,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,29.28
+36,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,55.56
+37,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,39.22
+38,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,58.44
+39,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,55.56
+40,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,52.63
+41,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,76.92
+42,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,62.84
+43,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.25
+44,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.82
+45,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,65.69
+46,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,69.7
+47,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.9
+48,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,52.55
+49,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,64.19
+50,Minimal,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,61.73
+1,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,72.63
+2,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,61.4
+3,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,44.94
+4,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,40.82
+5,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,37.31
+6,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,50.3
+7,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,76.47
+8,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,36.4
+9,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,18.18
+10,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,76.22
+11,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,58.33
+12,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,57.43
+13,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,59.6
+14,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,51.72
+15,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,63.95
+16,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,70.31
+17,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,53.19
+18,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,71.43
+19,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,49.72
+20,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,41.1
+21,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,53.33
+22,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,51.61
+23,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.89
+24,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,44.55
+25,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,65.22
+26,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,45.95
+27,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,58.44
+28,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,57.97
+29,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,60.19
+30,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,62.77
+31,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,50.18
+32,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,40.88
+33,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,25.32
+34,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,51.61
+35,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,33.19
+36,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,51.4
+37,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,45.45
+38,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,61.73
+39,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,47.12
+40,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.82
+41,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,64.75
+42,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,65.71
+43,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,66.86
+44,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,50.0
+45,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,65.89
+46,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,69.7
+47,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,53.19
+48,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,56.23
+49,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,69.85
+50,Fluency,UAM-CSI,ERRANT,$\text{F}_{0.5}$-Score,64.81
+1,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,70.18
+2,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,61.22
+3,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,55.08
+4,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,29.63
+5,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,39.47
+6,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,50.39
+7,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,55.56
+8,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,31.65
+9,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,23.26
+10,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,75.0
+11,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,38.04
+12,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,56.45
+13,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,61.07
+14,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,51.19
+15,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,73.17
+16,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,44.35
+17,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,57.69
+18,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,38.46
+19,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,37.83
+20,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,35.71
+21,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,59.7
+22,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,44.12
+23,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,48.95
+24,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,37.74
+25,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,65.22
+26,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,36.08
+27,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,50.0
+28,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,46.15
+29,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,60.0
+30,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,56.49
+31,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,50.25
+32,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,43.94
+33,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,28.17
+34,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,42.11
+35,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,28.78
+36,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,42.11
+37,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,42.37
+38,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,55.56
+39,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,50.25
+40,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,45.98
+41,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,71.94
+42,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,62.84
+43,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,34.09
+44,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,35.71
+45,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,50.56
+46,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,45.95
+47,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,45.28
+48,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,46.92
+49,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,60.71
+50,Minimal,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,43.21
+1,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,61.54
+2,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,49.18
+3,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,43.65
+4,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,29.24
+5,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,35.21
+6,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,43.35
+7,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,46.73
+8,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,21.59
+9,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,29.41
+10,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,63.95
+11,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,43.75
+12,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,50.0
+13,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,38.46
+14,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,41.1
+15,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,75.58
+16,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,52.08
+17,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,45.14
+18,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,48.39
+19,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,36.14
+20,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,51.55
+21,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,44.78
+22,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,39.12
+23,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,45.71
+24,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,31.91
+25,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,42.86
+26,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,35.95
+27,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,37.67
+28,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,37.38
+29,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,65.79
+30,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,41.82
+31,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,48.94
+32,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,33.26
+33,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,34.81
+34,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,30.73
+35,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,24.23
+36,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,25.93
+37,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,54.55
+38,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,52.94
+39,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,42.65
+40,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,42.06
+41,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,64.52
+42,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,54.97
+43,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,31.25
+44,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,25.0
+45,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,57.52
+46,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,38.65
+47,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,39.09
+48,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,44.51
+49,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,48.61
+50,Fluency,Viking-7B,ERRANT,$\text{F}_{0.5}$-Score,32.47
+1,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,68.86
+2,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,71.43
+3,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,39.16
+4,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,34.35
+5,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,47.17
+6,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,48.28
+7,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,45.45
+8,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,33.76
+9,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,30.49
+10,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,79.27
+11,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,62.5
+12,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,53.03
+13,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,60.87
+14,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,48.04
+15,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,64.1
+16,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,53.57
+17,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,59.66
+18,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,82.19
+19,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,50.27
+20,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,57.97
+21,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,69.62
+22,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,48.15
+23,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,40.94
+24,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,46.39
+25,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,69.23
+26,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,29.41
+27,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,51.37
+28,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,71.43
+29,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,56.25
+30,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,65.12
+31,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,40.36
+32,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,35.63
+33,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,30.77
+34,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,37.41
+35,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,35.93
+36,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,32.52
+37,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,51.28
+38,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,58.82
+39,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,50.9
+40,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,39.47
+41,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,69.93
+42,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,62.84
+43,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,47.62
+44,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,55.56
+45,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,50.56
+46,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,44.2
+47,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,48.0
+48,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,43.25
+49,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,64.39
+50,Minimal,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,49.3
+1,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,55.87
+2,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,50.72
+3,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,37.97
+4,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,37.04
+5,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,38.46
+6,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,41.42
+7,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,33.71
+8,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,24.89
+9,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,34.68
+10,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,73.37
+11,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,62.5
+12,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,54.69
+13,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,40.74
+14,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,42.03
+15,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,58.51
+16,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,39.47
+17,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,61.05
+18,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,45.45
+19,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,37.62
+20,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,58.82
+21,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,56.34
+22,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,44.03
+23,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,51.43
+24,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,44.0
+25,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,51.55
+26,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,19.48
+27,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,44.52
+28,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,42.11
+29,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,72.73
+30,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,66.5
+31,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,36.05
+32,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,30.34
+33,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,23.81
+34,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,34.76
+35,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,34.29
+36,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,29.63
+37,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,40.4
+38,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,58.82
+39,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,30.66
+40,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,46.73
+41,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,50.31
+42,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,60.21
+43,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,43.48
+44,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,55.56
+45,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,54.74
+46,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,46.96
+47,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,37.15
+48,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,42.03
+49,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,59.03
+50,Fluency,Viking-13B,ERRANT,$\text{F}_{0.5}$-Score,50.0
+1,Minimal,UAM-CSI,Scribendi Score,,1.0
+2,Minimal,UAM-CSI,Scribendi Score,,1.0
+3,Minimal,UAM-CSI,Scribendi Score,,1.0
+4,Minimal,UAM-CSI,Scribendi Score,,1.0
+5,Minimal,UAM-CSI,Scribendi Score,,1.0
+6,Minimal,UAM-CSI,Scribendi Score,,1.0
+7,Minimal,UAM-CSI,Scribendi Score,,1.0
+8,Minimal,UAM-CSI,Scribendi Score,,1.0
+9,Minimal,UAM-CSI,Scribendi Score,,1.0
+10,Minimal,UAM-CSI,Scribendi Score,,1.0
+11,Minimal,UAM-CSI,Scribendi Score,,1.0
+12,Minimal,UAM-CSI,Scribendi Score,,1.0
+13,Minimal,UAM-CSI,Scribendi Score,,1.0
+14,Minimal,UAM-CSI,Scribendi Score,,1.0
+15,Minimal,UAM-CSI,Scribendi Score,,1.0
+16,Minimal,UAM-CSI,Scribendi Score,,1.0
+17,Minimal,UAM-CSI,Scribendi Score,,1.0
+18,Minimal,UAM-CSI,Scribendi Score,,1.0
+19,Minimal,UAM-CSI,Scribendi Score,,1.0
+20,Minimal,UAM-CSI,Scribendi Score,,1.0
+21,Minimal,UAM-CSI,Scribendi Score,,1.0
+22,Minimal,UAM-CSI,Scribendi Score,,1.0
+23,Minimal,UAM-CSI,Scribendi Score,,1.0
+24,Minimal,UAM-CSI,Scribendi Score,,1.0
+25,Minimal,UAM-CSI,Scribendi Score,,1.0
+26,Minimal,UAM-CSI,Scribendi Score,,1.0
+27,Minimal,UAM-CSI,Scribendi Score,,1.0
+28,Minimal,UAM-CSI,Scribendi Score,,1.0
+29,Minimal,UAM-CSI,Scribendi Score,,1.0
+30,Minimal,UAM-CSI,Scribendi Score,,1.0
+31,Minimal,UAM-CSI,Scribendi Score,,1.0
+32,Minimal,UAM-CSI,Scribendi Score,,1.0
+33,Minimal,UAM-CSI,Scribendi Score,,1.0
+34,Minimal,UAM-CSI,Scribendi Score,,1.0
+35,Minimal,UAM-CSI,Scribendi Score,,1.0
+36,Minimal,UAM-CSI,Scribendi Score,,1.0
+37,Minimal,UAM-CSI,Scribendi Score,,1.0
+38,Minimal,UAM-CSI,Scribendi Score,,1.0
+39,Minimal,UAM-CSI,Scribendi Score,,1.0
+40,Minimal,UAM-CSI,Scribendi Score,,1.0
+41,Minimal,UAM-CSI,Scribendi Score,,1.0
+42,Minimal,UAM-CSI,Scribendi Score,,1.0
+43,Minimal,UAM-CSI,Scribendi Score,,1.0
+44,Minimal,UAM-CSI,Scribendi Score,,1.0
+45,Minimal,UAM-CSI,Scribendi Score,,1.0
+46,Minimal,UAM-CSI,Scribendi Score,,1.0
+47,Minimal,UAM-CSI,Scribendi Score,,1.0
+48,Minimal,UAM-CSI,Scribendi Score,,1.0
+49,Minimal,UAM-CSI,Scribendi Score,,1.0
+50,Minimal,UAM-CSI,Scribendi Score,,1.0
+1,Fluency,UAM-CSI,Scribendi Score,,1.0
+2,Fluency,UAM-CSI,Scribendi Score,,1.0
+3,Fluency,UAM-CSI,Scribendi Score,,1.0
+4,Fluency,UAM-CSI,Scribendi Score,,1.0
+5,Fluency,UAM-CSI,Scribendi Score,,1.0
+6,Fluency,UAM-CSI,Scribendi Score,,1.0
+7,Fluency,UAM-CSI,Scribendi Score,,1.0
+8,Fluency,UAM-CSI,Scribendi Score,,1.0
+9,Fluency,UAM-CSI,Scribendi Score,,1.0
+10,Fluency,UAM-CSI,Scribendi Score,,1.0
+11,Fluency,UAM-CSI,Scribendi Score,,1.0
+12,Fluency,UAM-CSI,Scribendi Score,,1.0
+13,Fluency,UAM-CSI,Scribendi Score,,1.0
+14,Fluency,UAM-CSI,Scribendi Score,,1.0
+15,Fluency,UAM-CSI,Scribendi Score,,1.0
+16,Fluency,UAM-CSI,Scribendi Score,,1.0
+17,Fluency,UAM-CSI,Scribendi Score,,1.0
+18,Fluency,UAM-CSI,Scribendi Score,,1.0
+19,Fluency,UAM-CSI,Scribendi Score,,1.0
+20,Fluency,UAM-CSI,Scribendi Score,,1.0
+21,Fluency,UAM-CSI,Scribendi Score,,1.0
+22,Fluency,UAM-CSI,Scribendi Score,,1.0
+23,Fluency,UAM-CSI,Scribendi Score,,1.0
+24,Fluency,UAM-CSI,Scribendi Score,,1.0
+25,Fluency,UAM-CSI,Scribendi Score,,1.0
+26,Fluency,UAM-CSI,Scribendi Score,,1.0
+27,Fluency,UAM-CSI,Scribendi Score,,1.0
+28,Fluency,UAM-CSI,Scribendi Score,,1.0
+29,Fluency,UAM-CSI,Scribendi Score,,1.0
+30,Fluency,UAM-CSI,Scribendi Score,,1.0
+31,Fluency,UAM-CSI,Scribendi Score,,1.0
+32,Fluency,UAM-CSI,Scribendi Score,,1.0
+33,Fluency,UAM-CSI,Scribendi Score,,1.0
+34,Fluency,UAM-CSI,Scribendi Score,,1.0
+35,Fluency,UAM-CSI,Scribendi Score,,1.0
+36,Fluency,UAM-CSI,Scribendi Score,,1.0
+37,Fluency,UAM-CSI,Scribendi Score,,1.0
+38,Fluency,UAM-CSI,Scribendi Score,,1.0
+39,Fluency,UAM-CSI,Scribendi Score,,1.0
+40,Fluency,UAM-CSI,Scribendi Score,,1.0
+41,Fluency,UAM-CSI,Scribendi Score,,1.0
+42,Fluency,UAM-CSI,Scribendi Score,,1.0
+43,Fluency,UAM-CSI,Scribendi Score,,1.0
+44,Fluency,UAM-CSI,Scribendi Score,,1.0
+45,Fluency,UAM-CSI,Scribendi Score,,1.0
+46,Fluency,UAM-CSI,Scribendi Score,,1.0
+47,Fluency,UAM-CSI,Scribendi Score,,1.0
+48,Fluency,UAM-CSI,Scribendi Score,,1.0
+49,Fluency,UAM-CSI,Scribendi Score,,1.0
+50,Fluency,UAM-CSI,Scribendi Score,,1.0
+1,Minimal,Viking-7B,Scribendi Score,,1.0
+2,Minimal,Viking-7B,Scribendi Score,,1.0
+3,Minimal,Viking-7B,Scribendi Score,,1.0
+4,Minimal,Viking-7B,Scribendi Score,,1.0
+5,Minimal,Viking-7B,Scribendi Score,,1.0
+6,Minimal,Viking-7B,Scribendi Score,,1.0
+7,Minimal,Viking-7B,Scribendi Score,,1.0
+8,Minimal,Viking-7B,Scribendi Score,,1.0
+9,Minimal,Viking-7B,Scribendi Score,,1.0
+10,Minimal,Viking-7B,Scribendi Score,,1.0
+11,Minimal,Viking-7B,Scribendi Score,,1.0
+12,Minimal,Viking-7B,Scribendi Score,,1.0
+13,Minimal,Viking-7B,Scribendi Score,,1.0
+14,Minimal,Viking-7B,Scribendi Score,,1.0
+15,Minimal,Viking-7B,Scribendi Score,,1.0
+16,Minimal,Viking-7B,Scribendi Score,,1.0
+17,Minimal,Viking-7B,Scribendi Score,,1.0
+18,Minimal,Viking-7B,Scribendi Score,,1.0
+19,Minimal,Viking-7B,Scribendi Score,,1.0
+20,Minimal,Viking-7B,Scribendi Score,,1.0
+21,Minimal,Viking-7B,Scribendi Score,,1.0
+22,Minimal,Viking-7B,Scribendi Score,,1.0
+23,Minimal,Viking-7B,Scribendi Score,,1.0
+24,Minimal,Viking-7B,Scribendi Score,,1.0
+25,Minimal,Viking-7B,Scribendi Score,,1.0
+26,Minimal,Viking-7B,Scribendi Score,,1.0
+27,Minimal,Viking-7B,Scribendi Score,,1.0
+28,Minimal,Viking-7B,Scribendi Score,,1.0
+29,Minimal,Viking-7B,Scribendi Score,,1.0
+30,Minimal,Viking-7B,Scribendi Score,,1.0
+31,Minimal,Viking-7B,Scribendi Score,,1.0
+32,Minimal,Viking-7B,Scribendi Score,,1.0
+33,Minimal,Viking-7B,Scribendi Score,,1.0
+34,Minimal,Viking-7B,Scribendi Score,,1.0
+35,Minimal,Viking-7B,Scribendi Score,,1.0
+36,Minimal,Viking-7B,Scribendi Score,,1.0
+37,Minimal,Viking-7B,Scribendi Score,,1.0
+38,Minimal,Viking-7B,Scribendi Score,,1.0
+39,Minimal,Viking-7B,Scribendi Score,,1.0
+40,Minimal,Viking-7B,Scribendi Score,,1.0
+41,Minimal,Viking-7B,Scribendi Score,,1.0
+42,Minimal,Viking-7B,Scribendi Score,,1.0
+43,Minimal,Viking-7B,Scribendi Score,,1.0
+44,Minimal,Viking-7B,Scribendi Score,,1.0
+45,Minimal,Viking-7B,Scribendi Score,,1.0
+46,Minimal,Viking-7B,Scribendi Score,,1.0
+47,Minimal,Viking-7B,Scribendi Score,,1.0
+48,Minimal,Viking-7B,Scribendi Score,,1.0
+49,Minimal,Viking-7B,Scribendi Score,,1.0
+50,Minimal,Viking-7B,Scribendi Score,,1.0
+1,Fluency,Viking-7B,Scribendi Score,,1.0
+2,Fluency,Viking-7B,Scribendi Score,,1.0
+3,Fluency,Viking-7B,Scribendi Score,,1.0
+4,Fluency,Viking-7B,Scribendi Score,,1.0
+5,Fluency,Viking-7B,Scribendi Score,,1.0
+6,Fluency,Viking-7B,Scribendi Score,,1.0
+7,Fluency,Viking-7B,Scribendi Score,,1.0
+8,Fluency,Viking-7B,Scribendi Score,,1.0
+9,Fluency,Viking-7B,Scribendi Score,,1.0
+10,Fluency,Viking-7B,Scribendi Score,,1.0
+11,Fluency,Viking-7B,Scribendi Score,,1.0
+12,Fluency,Viking-7B,Scribendi Score,,1.0
+13,Fluency,Viking-7B,Scribendi Score,,1.0
+14,Fluency,Viking-7B,Scribendi Score,,1.0
+15,Fluency,Viking-7B,Scribendi Score,,1.0
+16,Fluency,Viking-7B,Scribendi Score,,1.0
+17,Fluency,Viking-7B,Scribendi Score,,1.0
+18,Fluency,Viking-7B,Scribendi Score,,1.0
+19,Fluency,Viking-7B,Scribendi Score,,1.0
+20,Fluency,Viking-7B,Scribendi Score,,1.0
+21,Fluency,Viking-7B,Scribendi Score,,1.0
+22,Fluency,Viking-7B,Scribendi Score,,1.0
+23,Fluency,Viking-7B,Scribendi Score,,1.0
+24,Fluency,Viking-7B,Scribendi Score,,1.0
+25,Fluency,Viking-7B,Scribendi Score,,1.0
+26,Fluency,Viking-7B,Scribendi Score,,1.0
+27,Fluency,Viking-7B,Scribendi Score,,1.0
+28,Fluency,Viking-7B,Scribendi Score,,1.0
+29,Fluency,Viking-7B,Scribendi Score,,1.0
+30,Fluency,Viking-7B,Scribendi Score,,1.0
+31,Fluency,Viking-7B,Scribendi Score,,1.0
+32,Fluency,Viking-7B,Scribendi Score,,1.0
+33,Fluency,Viking-7B,Scribendi Score,,1.0
+34,Fluency,Viking-7B,Scribendi Score,,1.0
+35,Fluency,Viking-7B,Scribendi Score,,1.0
+36,Fluency,Viking-7B,Scribendi Score,,1.0
+37,Fluency,Viking-7B,Scribendi Score,,1.0
+38,Fluency,Viking-7B,Scribendi Score,,1.0
+39,Fluency,Viking-7B,Scribendi Score,,1.0
+40,Fluency,Viking-7B,Scribendi Score,,1.0
+41,Fluency,Viking-7B,Scribendi Score,,1.0
+42,Fluency,Viking-7B,Scribendi Score,,1.0
+43,Fluency,Viking-7B,Scribendi Score,,1.0
+44,Fluency,Viking-7B,Scribendi Score,,1.0
+45,Fluency,Viking-7B,Scribendi Score,,1.0
+46,Fluency,Viking-7B,Scribendi Score,,1.0
+47,Fluency,Viking-7B,Scribendi Score,,1.0
+48,Fluency,Viking-7B,Scribendi Score,,1.0
+49,Fluency,Viking-7B,Scribendi Score,,1.0
+50,Fluency,Viking-7B,Scribendi Score,,-1.0
+1,Minimal,Viking-13B,Scribendi Score,,1.0
+2,Minimal,Viking-13B,Scribendi Score,,1.0
+3,Minimal,Viking-13B,Scribendi Score,,1.0
+4,Minimal,Viking-13B,Scribendi Score,,1.0
+5,Minimal,Viking-13B,Scribendi Score,,1.0
+6,Minimal,Viking-13B,Scribendi Score,,1.0
+7,Minimal,Viking-13B,Scribendi Score,,1.0
+8,Minimal,Viking-13B,Scribendi Score,,1.0
+9,Minimal,Viking-13B,Scribendi Score,,1.0
+10,Minimal,Viking-13B,Scribendi Score,,1.0
+11,Minimal,Viking-13B,Scribendi Score,,1.0
+12,Minimal,Viking-13B,Scribendi Score,,1.0
+13,Minimal,Viking-13B,Scribendi Score,,1.0
+14,Minimal,Viking-13B,Scribendi Score,,1.0
+15,Minimal,Viking-13B,Scribendi Score,,1.0
+16,Minimal,Viking-13B,Scribendi Score,,1.0
+17,Minimal,Viking-13B,Scribendi Score,,1.0
+18,Minimal,Viking-13B,Scribendi Score,,1.0
+19,Minimal,Viking-13B,Scribendi Score,,1.0
+20,Minimal,Viking-13B,Scribendi Score,,1.0
+21,Minimal,Viking-13B,Scribendi Score,,1.0
+22,Minimal,Viking-13B,Scribendi Score,,1.0
+23,Minimal,Viking-13B,Scribendi Score,,1.0
+24,Minimal,Viking-13B,Scribendi Score,,1.0
+25,Minimal,Viking-13B,Scribendi Score,,1.0
+26,Minimal,Viking-13B,Scribendi Score,,1.0
+27,Minimal,Viking-13B,Scribendi Score,,1.0
+28,Minimal,Viking-13B,Scribendi Score,,1.0
+29,Minimal,Viking-13B,Scribendi Score,,1.0
+30,Minimal,Viking-13B,Scribendi Score,,1.0
+31,Minimal,Viking-13B,Scribendi Score,,1.0
+32,Minimal,Viking-13B,Scribendi Score,,1.0
+33,Minimal,Viking-13B,Scribendi Score,,1.0
+34,Minimal,Viking-13B,Scribendi Score,,1.0
+35,Minimal,Viking-13B,Scribendi Score,,1.0
+36,Minimal,Viking-13B,Scribendi Score,,1.0
+37,Minimal,Viking-13B,Scribendi Score,,1.0
+38,Minimal,Viking-13B,Scribendi Score,,1.0
+39,Minimal,Viking-13B,Scribendi Score,,1.0
+40,Minimal,Viking-13B,Scribendi Score,,1.0
+41,Minimal,Viking-13B,Scribendi Score,,1.0
+42,Minimal,Viking-13B,Scribendi Score,,1.0
+43,Minimal,Viking-13B,Scribendi Score,,1.0
+44,Minimal,Viking-13B,Scribendi Score,,1.0
+45,Minimal,Viking-13B,Scribendi Score,,1.0
+46,Minimal,Viking-13B,Scribendi Score,,1.0
+47,Minimal,Viking-13B,Scribendi Score,,1.0
+48,Minimal,Viking-13B,Scribendi Score,,1.0
+49,Minimal,Viking-13B,Scribendi Score,,1.0
+50,Minimal,Viking-13B,Scribendi Score,,1.0
+1,Fluency,Viking-13B,Scribendi Score,,1.0
+2,Fluency,Viking-13B,Scribendi Score,,1.0
+3,Fluency,Viking-13B,Scribendi Score,,1.0
+4,Fluency,Viking-13B,Scribendi Score,,1.0
+5,Fluency,Viking-13B,Scribendi Score,,1.0
+6,Fluency,Viking-13B,Scribendi Score,,1.0
+7,Fluency,Viking-13B,Scribendi Score,,1.0
+8,Fluency,Viking-13B,Scribendi Score,,1.0
+9,Fluency,Viking-13B,Scribendi Score,,1.0
+10,Fluency,Viking-13B,Scribendi Score,,1.0
+11,Fluency,Viking-13B,Scribendi Score,,1.0
+12,Fluency,Viking-13B,Scribendi Score,,1.0
+13,Fluency,Viking-13B,Scribendi Score,,1.0
+14,Fluency,Viking-13B,Scribendi Score,,1.0
+15,Fluency,Viking-13B,Scribendi Score,,1.0
+16,Fluency,Viking-13B,Scribendi Score,,1.0
+17,Fluency,Viking-13B,Scribendi Score,,1.0
+18,Fluency,Viking-13B,Scribendi Score,,1.0
+19,Fluency,Viking-13B,Scribendi Score,,1.0
+20,Fluency,Viking-13B,Scribendi Score,,1.0
+21,Fluency,Viking-13B,Scribendi Score,,1.0
+22,Fluency,Viking-13B,Scribendi Score,,1.0
+23,Fluency,Viking-13B,Scribendi Score,,1.0
+24,Fluency,Viking-13B,Scribendi Score,,1.0
+25,Fluency,Viking-13B,Scribendi Score,,1.0
+26,Fluency,Viking-13B,Scribendi Score,,1.0
+27,Fluency,Viking-13B,Scribendi Score,,1.0
+28,Fluency,Viking-13B,Scribendi Score,,1.0
+29,Fluency,Viking-13B,Scribendi Score,,1.0
+30,Fluency,Viking-13B,Scribendi Score,,1.0
+31,Fluency,Viking-13B,Scribendi Score,,1.0
+32,Fluency,Viking-13B,Scribendi Score,,1.0
+33,Fluency,Viking-13B,Scribendi Score,,1.0
+34,Fluency,Viking-13B,Scribendi Score,,1.0
+35,Fluency,Viking-13B,Scribendi Score,,1.0
+36,Fluency,Viking-13B,Scribendi Score,,1.0
+37,Fluency,Viking-13B,Scribendi Score,,1.0
+38,Fluency,Viking-13B,Scribendi Score,,1.0
+39,Fluency,Viking-13B,Scribendi Score,,1.0
+40,Fluency,Viking-13B,Scribendi Score,,1.0
+41,Fluency,Viking-13B,Scribendi Score,,1.0
+42,Fluency,Viking-13B,Scribendi Score,,1.0
+43,Fluency,Viking-13B,Scribendi Score,,1.0
+44,Fluency,Viking-13B,Scribendi Score,,1.0
+45,Fluency,Viking-13B,Scribendi Score,,1.0
+46,Fluency,Viking-13B,Scribendi Score,,1.0
+47,Fluency,Viking-13B,Scribendi Score,,1.0
+48,Fluency,Viking-13B,Scribendi Score,,1.0
+49,Fluency,Viking-13B,Scribendi Score,,1.0
+50,Fluency,Viking-13B,Scribendi Score,,-1.0
+1,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+1,Minimal,UAM-CSI,SOME,Fluency,2.0
+1,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+1,Minimal,UAM-CSI,SOME,Total,2.6666666666666665
+2,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+2,Minimal,UAM-CSI,SOME,Fluency,2.0
+2,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+2,Minimal,UAM-CSI,SOME,Total,3.0
+3,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+3,Minimal,UAM-CSI,SOME,Fluency,1.0
+3,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+3,Minimal,UAM-CSI,SOME,Total,2.3333333333333335
+4,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+4,Minimal,UAM-CSI,SOME,Fluency,1.0
+4,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+4,Minimal,UAM-CSI,SOME,Total,2.0
+5,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+5,Minimal,UAM-CSI,SOME,Fluency,3.0
+5,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+5,Minimal,UAM-CSI,SOME,Total,3.0
+6,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+6,Minimal,UAM-CSI,SOME,Fluency,3.0
+6,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+6,Minimal,UAM-CSI,SOME,Total,3.6666666666666665
+7,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+7,Minimal,UAM-CSI,SOME,Fluency,2.0
+7,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+7,Minimal,UAM-CSI,SOME,Total,3.0
+8,Minimal,UAM-CSI,SOME,Grammaticality,1.0
+8,Minimal,UAM-CSI,SOME,Fluency,1.0
+8,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+8,Minimal,UAM-CSI,SOME,Total,1.6666666666666667
+9,Minimal,UAM-CSI,SOME,Grammaticality,1.0
+9,Minimal,UAM-CSI,SOME,Fluency,1.0
+9,Minimal,UAM-CSI,SOME,Meaning Preservation,2.0
+9,Minimal,UAM-CSI,SOME,Total,1.3333333333333333
+10,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+10,Minimal,UAM-CSI,SOME,Fluency,3.0
+10,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+10,Minimal,UAM-CSI,SOME,Total,3.3333333333333335
+11,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+11,Minimal,UAM-CSI,SOME,Fluency,3.0
+11,Minimal,UAM-CSI,SOME,Meaning Preservation,2.0
+11,Minimal,UAM-CSI,SOME,Total,3.0
+12,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+12,Minimal,UAM-CSI,SOME,Fluency,1.0
+12,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+12,Minimal,UAM-CSI,SOME,Total,2.3333333333333335
+13,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+13,Minimal,UAM-CSI,SOME,Fluency,2.0
+13,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+13,Minimal,UAM-CSI,SOME,Total,2.3333333333333335
+14,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+14,Minimal,UAM-CSI,SOME,Fluency,2.0
+14,Minimal,UAM-CSI,SOME,Meaning Preservation,2.0
+14,Minimal,UAM-CSI,SOME,Total,2.0
+15,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+15,Minimal,UAM-CSI,SOME,Fluency,3.0
+15,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+15,Minimal,UAM-CSI,SOME,Total,3.0
+16,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+16,Minimal,UAM-CSI,SOME,Fluency,3.0
+16,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+16,Minimal,UAM-CSI,SOME,Total,3.0
+17,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+17,Minimal,UAM-CSI,SOME,Fluency,2.0
+17,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+17,Minimal,UAM-CSI,SOME,Total,2.6666666666666665
+18,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+18,Minimal,UAM-CSI,SOME,Fluency,3.0
+18,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+18,Minimal,UAM-CSI,SOME,Total,3.3333333333333335
+19,Minimal,UAM-CSI,SOME,Grammaticality,1.0
+19,Minimal,UAM-CSI,SOME,Fluency,1.0
+19,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+19,Minimal,UAM-CSI,SOME,Total,2.0
+20,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+20,Minimal,UAM-CSI,SOME,Fluency,3.0
+20,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+20,Minimal,UAM-CSI,SOME,Total,3.0
+21,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+21,Minimal,UAM-CSI,SOME,Fluency,3.0
+21,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+21,Minimal,UAM-CSI,SOME,Total,2.6666666666666665
+22,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+22,Minimal,UAM-CSI,SOME,Fluency,4.0
+22,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+22,Minimal,UAM-CSI,SOME,Total,3.6666666666666665
+23,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+23,Minimal,UAM-CSI,SOME,Fluency,3.0
+23,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+23,Minimal,UAM-CSI,SOME,Total,3.6666666666666665
+24,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+24,Minimal,UAM-CSI,SOME,Fluency,4.0
+24,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+24,Minimal,UAM-CSI,SOME,Total,4.0
+25,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+25,Minimal,UAM-CSI,SOME,Fluency,4.0
+25,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+25,Minimal,UAM-CSI,SOME,Total,4.0
+26,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+26,Minimal,UAM-CSI,SOME,Fluency,4.0
+26,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+26,Minimal,UAM-CSI,SOME,Total,3.6666666666666665
+27,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+27,Minimal,UAM-CSI,SOME,Fluency,3.0
+27,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+27,Minimal,UAM-CSI,SOME,Total,3.0
+28,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+28,Minimal,UAM-CSI,SOME,Fluency,2.0
+28,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+28,Minimal,UAM-CSI,SOME,Total,3.0
+29,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+29,Minimal,UAM-CSI,SOME,Fluency,2.0
+29,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+29,Minimal,UAM-CSI,SOME,Total,3.0
+30,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+30,Minimal,UAM-CSI,SOME,Fluency,4.0
+30,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+30,Minimal,UAM-CSI,SOME,Total,3.3333333333333335
+31,Minimal,UAM-CSI,SOME,Grammaticality,1.0
+31,Minimal,UAM-CSI,SOME,Fluency,2.0
+31,Minimal,UAM-CSI,SOME,Meaning Preservation,1.0
+31,Minimal,UAM-CSI,SOME,Total,1.3333333333333333
+32,Minimal,UAM-CSI,SOME,Grammaticality,1.0
+32,Minimal,UAM-CSI,SOME,Fluency,1.0
+32,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+32,Minimal,UAM-CSI,SOME,Total,2.0
+33,Minimal,UAM-CSI,SOME,Grammaticality,1.0
+33,Minimal,UAM-CSI,SOME,Fluency,1.0
+33,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+33,Minimal,UAM-CSI,SOME,Total,2.0
+34,Minimal,UAM-CSI,SOME,Grammaticality,1.0
+34,Minimal,UAM-CSI,SOME,Fluency,2.0
+34,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+34,Minimal,UAM-CSI,SOME,Total,2.3333333333333335
+35,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+35,Minimal,UAM-CSI,SOME,Fluency,3.0
+35,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+35,Minimal,UAM-CSI,SOME,Total,3.0
+36,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+36,Minimal,UAM-CSI,SOME,Fluency,2.0
+36,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+36,Minimal,UAM-CSI,SOME,Total,2.3333333333333335
+37,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+37,Minimal,UAM-CSI,SOME,Fluency,4.0
+37,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+37,Minimal,UAM-CSI,SOME,Total,3.6666666666666665
+38,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+38,Minimal,UAM-CSI,SOME,Fluency,2.0
+38,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+38,Minimal,UAM-CSI,SOME,Total,3.0
+39,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+39,Minimal,UAM-CSI,SOME,Fluency,2.0
+39,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+39,Minimal,UAM-CSI,SOME,Total,3.0
+40,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+40,Minimal,UAM-CSI,SOME,Fluency,3.0
+40,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+40,Minimal,UAM-CSI,SOME,Total,3.0
+41,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+41,Minimal,UAM-CSI,SOME,Fluency,2.0
+41,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+41,Minimal,UAM-CSI,SOME,Total,3.0
+42,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+42,Minimal,UAM-CSI,SOME,Fluency,3.0
+42,Minimal,UAM-CSI,SOME,Meaning Preservation,2.0
+42,Minimal,UAM-CSI,SOME,Total,2.6666666666666665
+43,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+43,Minimal,UAM-CSI,SOME,Fluency,2.0
+43,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+43,Minimal,UAM-CSI,SOME,Total,2.6666666666666665
+44,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+44,Minimal,UAM-CSI,SOME,Fluency,4.0
+44,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+44,Minimal,UAM-CSI,SOME,Total,4.0
+45,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+45,Minimal,UAM-CSI,SOME,Fluency,3.0
+45,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+45,Minimal,UAM-CSI,SOME,Total,3.6666666666666665
+46,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+46,Minimal,UAM-CSI,SOME,Fluency,3.0
+46,Minimal,UAM-CSI,SOME,Meaning Preservation,4.0
+46,Minimal,UAM-CSI,SOME,Total,3.3333333333333335
+47,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+47,Minimal,UAM-CSI,SOME,Fluency,2.0
+47,Minimal,UAM-CSI,SOME,Meaning Preservation,2.0
+47,Minimal,UAM-CSI,SOME,Total,2.0
+48,Minimal,UAM-CSI,SOME,Grammaticality,3.0
+48,Minimal,UAM-CSI,SOME,Fluency,2.0
+48,Minimal,UAM-CSI,SOME,Meaning Preservation,3.0
+48,Minimal,UAM-CSI,SOME,Total,2.6666666666666665
+49,Minimal,UAM-CSI,SOME,Grammaticality,2.0
+49,Minimal,UAM-CSI,SOME,Fluency,1.0
+49,Minimal,UAM-CSI,SOME,Meaning Preservation,2.0
+49,Minimal,UAM-CSI,SOME,Total,1.6666666666666667
+50,Minimal,UAM-CSI,SOME,Grammaticality,4.0
+50,Minimal,UAM-CSI,SOME,Fluency,3.0
+50,Minimal,UAM-CSI,SOME,Meaning Preservation,2.0
+50,Minimal,UAM-CSI,SOME,Total,3.0
+1,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+1,Fluency,UAM-CSI,SOME,Fluency,3.0
+1,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+1,Fluency,UAM-CSI,SOME,Total,3.0
+2,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+2,Fluency,UAM-CSI,SOME,Fluency,2.0
+2,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+2,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+3,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+3,Fluency,UAM-CSI,SOME,Fluency,3.0
+3,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+3,Fluency,UAM-CSI,SOME,Total,3.0
+4,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+4,Fluency,UAM-CSI,SOME,Fluency,2.0
+4,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+4,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+5,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+5,Fluency,UAM-CSI,SOME,Fluency,1.0
+5,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+5,Fluency,UAM-CSI,SOME,Total,2.0
+6,Fluency,UAM-CSI,SOME,Grammaticality,4.0
+6,Fluency,UAM-CSI,SOME,Fluency,4.0
+6,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+6,Fluency,UAM-CSI,SOME,Total,4.0
+7,Fluency,UAM-CSI,SOME,Grammaticality,4.0
+7,Fluency,UAM-CSI,SOME,Fluency,3.0
+7,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+7,Fluency,UAM-CSI,SOME,Total,3.6666666666666665
+8,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+8,Fluency,UAM-CSI,SOME,Fluency,1.0
+8,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+8,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+9,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+9,Fluency,UAM-CSI,SOME,Fluency,1.0
+9,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+9,Fluency,UAM-CSI,SOME,Total,2.0
+10,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+10,Fluency,UAM-CSI,SOME,Fluency,3.0
+10,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+10,Fluency,UAM-CSI,SOME,Total,3.0
+11,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+11,Fluency,UAM-CSI,SOME,Fluency,4.0
+11,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+11,Fluency,UAM-CSI,SOME,Total,3.0
+12,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+12,Fluency,UAM-CSI,SOME,Fluency,1.0
+12,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+12,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+13,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+13,Fluency,UAM-CSI,SOME,Fluency,2.0
+13,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+13,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+14,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+14,Fluency,UAM-CSI,SOME,Fluency,2.0
+14,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+14,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+15,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+15,Fluency,UAM-CSI,SOME,Fluency,3.0
+15,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+15,Fluency,UAM-CSI,SOME,Total,3.0
+16,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+16,Fluency,UAM-CSI,SOME,Fluency,3.0
+16,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+16,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+17,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+17,Fluency,UAM-CSI,SOME,Fluency,2.0
+17,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+17,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+18,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+18,Fluency,UAM-CSI,SOME,Fluency,2.0
+18,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+18,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+19,Fluency,UAM-CSI,SOME,Grammaticality,1.0
+19,Fluency,UAM-CSI,SOME,Fluency,1.0
+19,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+19,Fluency,UAM-CSI,SOME,Total,1.6666666666666667
+20,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+20,Fluency,UAM-CSI,SOME,Fluency,3.0
+20,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+20,Fluency,UAM-CSI,SOME,Total,3.3333333333333335
+21,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+21,Fluency,UAM-CSI,SOME,Fluency,3.0
+21,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+21,Fluency,UAM-CSI,SOME,Total,3.0
+22,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+22,Fluency,UAM-CSI,SOME,Fluency,2.0
+22,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+22,Fluency,UAM-CSI,SOME,Total,2.0
+23,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+23,Fluency,UAM-CSI,SOME,Fluency,3.0
+23,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+23,Fluency,UAM-CSI,SOME,Total,3.0
+24,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+24,Fluency,UAM-CSI,SOME,Fluency,3.0
+24,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+24,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+25,Fluency,UAM-CSI,SOME,Grammaticality,4.0
+25,Fluency,UAM-CSI,SOME,Fluency,4.0
+25,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+25,Fluency,UAM-CSI,SOME,Total,4.0
+26,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+26,Fluency,UAM-CSI,SOME,Fluency,3.0
+26,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+26,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+27,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+27,Fluency,UAM-CSI,SOME,Fluency,4.0
+27,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+27,Fluency,UAM-CSI,SOME,Total,3.3333333333333335
+28,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+28,Fluency,UAM-CSI,SOME,Fluency,2.0
+28,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+28,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+29,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+29,Fluency,UAM-CSI,SOME,Fluency,2.0
+29,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+29,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+30,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+30,Fluency,UAM-CSI,SOME,Fluency,1.0
+30,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+30,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+31,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+31,Fluency,UAM-CSI,SOME,Fluency,1.0
+31,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+31,Fluency,UAM-CSI,SOME,Total,1.6666666666666667
+32,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+32,Fluency,UAM-CSI,SOME,Fluency,1.0
+32,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+32,Fluency,UAM-CSI,SOME,Total,1.6666666666666667
+33,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+33,Fluency,UAM-CSI,SOME,Fluency,2.0
+33,Fluency,UAM-CSI,SOME,Meaning Preservation,1.0
+33,Fluency,UAM-CSI,SOME,Total,2.0
+34,Fluency,UAM-CSI,SOME,Grammaticality,1.0
+34,Fluency,UAM-CSI,SOME,Fluency,1.0
+34,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+34,Fluency,UAM-CSI,SOME,Total,1.3333333333333333
+35,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+35,Fluency,UAM-CSI,SOME,Fluency,3.0
+35,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+35,Fluency,UAM-CSI,SOME,Total,3.0
+36,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+36,Fluency,UAM-CSI,SOME,Fluency,2.0
+36,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+36,Fluency,UAM-CSI,SOME,Total,3.0
+37,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+37,Fluency,UAM-CSI,SOME,Fluency,2.0
+37,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+37,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+38,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+38,Fluency,UAM-CSI,SOME,Fluency,2.0
+38,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+38,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+39,Fluency,UAM-CSI,SOME,Grammaticality,2.0
+39,Fluency,UAM-CSI,SOME,Fluency,2.0
+39,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+39,Fluency,UAM-CSI,SOME,Total,2.0
+40,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+40,Fluency,UAM-CSI,SOME,Fluency,2.0
+40,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+40,Fluency,UAM-CSI,SOME,Total,3.0
+41,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+41,Fluency,UAM-CSI,SOME,Fluency,2.0
+41,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+41,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+42,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+42,Fluency,UAM-CSI,SOME,Fluency,2.0
+42,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+42,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+43,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+43,Fluency,UAM-CSI,SOME,Fluency,2.0
+43,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+43,Fluency,UAM-CSI,SOME,Total,2.3333333333333335
+44,Fluency,UAM-CSI,SOME,Grammaticality,4.0
+44,Fluency,UAM-CSI,SOME,Fluency,4.0
+44,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+44,Fluency,UAM-CSI,SOME,Total,4.0
+45,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+45,Fluency,UAM-CSI,SOME,Fluency,4.0
+45,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+45,Fluency,UAM-CSI,SOME,Total,3.6666666666666665
+46,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+46,Fluency,UAM-CSI,SOME,Fluency,2.0
+46,Fluency,UAM-CSI,SOME,Meaning Preservation,4.0
+46,Fluency,UAM-CSI,SOME,Total,3.0
+47,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+47,Fluency,UAM-CSI,SOME,Fluency,2.0
+47,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+47,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+48,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+48,Fluency,UAM-CSI,SOME,Fluency,3.0
+48,Fluency,UAM-CSI,SOME,Meaning Preservation,2.0
+48,Fluency,UAM-CSI,SOME,Total,2.6666666666666665
+49,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+49,Fluency,UAM-CSI,SOME,Fluency,3.0
+49,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+49,Fluency,UAM-CSI,SOME,Total,3.0
+50,Fluency,UAM-CSI,SOME,Grammaticality,3.0
+50,Fluency,UAM-CSI,SOME,Fluency,3.0
+50,Fluency,UAM-CSI,SOME,Meaning Preservation,3.0
+50,Fluency,UAM-CSI,SOME,Total,3.0
+1,Minimal,Viking-7B,SOME,Grammaticality,3.0
+1,Minimal,Viking-7B,SOME,Fluency,2.0
+1,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+1,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+2,Minimal,Viking-7B,SOME,Grammaticality,3.0
+2,Minimal,Viking-7B,SOME,Fluency,3.0
+2,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+2,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+3,Minimal,Viking-7B,SOME,Grammaticality,3.0
+3,Minimal,Viking-7B,SOME,Fluency,2.0
+3,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+3,Minimal,Viking-7B,SOME,Total,3.0
+4,Minimal,Viking-7B,SOME,Grammaticality,3.0
+4,Minimal,Viking-7B,SOME,Fluency,3.0
+4,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+4,Minimal,Viking-7B,SOME,Total,3.0
+5,Minimal,Viking-7B,SOME,Grammaticality,4.0
+5,Minimal,Viking-7B,SOME,Fluency,4.0
+5,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+5,Minimal,Viking-7B,SOME,Total,4.0
+6,Minimal,Viking-7B,SOME,Grammaticality,3.0
+6,Minimal,Viking-7B,SOME,Fluency,3.0
+6,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+6,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+7,Minimal,Viking-7B,SOME,Grammaticality,3.0
+7,Minimal,Viking-7B,SOME,Fluency,3.0
+7,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+7,Minimal,Viking-7B,SOME,Total,3.0
+8,Minimal,Viking-7B,SOME,Grammaticality,2.0
+8,Minimal,Viking-7B,SOME,Fluency,2.0
+8,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+8,Minimal,Viking-7B,SOME,Total,2.0
+9,Minimal,Viking-7B,SOME,Grammaticality,2.0
+9,Minimal,Viking-7B,SOME,Fluency,2.0
+9,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+9,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+10,Minimal,Viking-7B,SOME,Grammaticality,3.0
+10,Minimal,Viking-7B,SOME,Fluency,3.0
+10,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+10,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+11,Minimal,Viking-7B,SOME,Grammaticality,2.0
+11,Minimal,Viking-7B,SOME,Fluency,3.0
+11,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+11,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+12,Minimal,Viking-7B,SOME,Grammaticality,2.0
+12,Minimal,Viking-7B,SOME,Fluency,2.0
+12,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+12,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+13,Minimal,Viking-7B,SOME,Grammaticality,3.0
+13,Minimal,Viking-7B,SOME,Fluency,2.0
+13,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+13,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+14,Minimal,Viking-7B,SOME,Grammaticality,3.0
+14,Minimal,Viking-7B,SOME,Fluency,3.0
+14,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+14,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+15,Minimal,Viking-7B,SOME,Grammaticality,3.0
+15,Minimal,Viking-7B,SOME,Fluency,3.0
+15,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+15,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+16,Minimal,Viking-7B,SOME,Grammaticality,4.0
+16,Minimal,Viking-7B,SOME,Fluency,3.0
+16,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+16,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+17,Minimal,Viking-7B,SOME,Grammaticality,3.0
+17,Minimal,Viking-7B,SOME,Fluency,3.0
+17,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+17,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+18,Minimal,Viking-7B,SOME,Grammaticality,3.0
+18,Minimal,Viking-7B,SOME,Fluency,2.0
+18,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+18,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+19,Minimal,Viking-7B,SOME,Grammaticality,2.0
+19,Minimal,Viking-7B,SOME,Fluency,2.0
+19,Minimal,Viking-7B,SOME,Meaning Preservation,1.0
+19,Minimal,Viking-7B,SOME,Total,1.6666666666666667
+20,Minimal,Viking-7B,SOME,Grammaticality,3.0
+20,Minimal,Viking-7B,SOME,Fluency,3.0
+20,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+20,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+21,Minimal,Viking-7B,SOME,Grammaticality,2.0
+21,Minimal,Viking-7B,SOME,Fluency,3.0
+21,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+21,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+22,Minimal,Viking-7B,SOME,Grammaticality,3.0
+22,Minimal,Viking-7B,SOME,Fluency,3.0
+22,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+22,Minimal,Viking-7B,SOME,Total,3.0
+23,Minimal,Viking-7B,SOME,Grammaticality,3.0
+23,Minimal,Viking-7B,SOME,Fluency,3.0
+23,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+23,Minimal,Viking-7B,SOME,Total,3.0
+24,Minimal,Viking-7B,SOME,Grammaticality,3.0
+24,Minimal,Viking-7B,SOME,Fluency,4.0
+24,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+24,Minimal,Viking-7B,SOME,Total,3.6666666666666665
+25,Minimal,Viking-7B,SOME,Grammaticality,4.0
+25,Minimal,Viking-7B,SOME,Fluency,4.0
+25,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+25,Minimal,Viking-7B,SOME,Total,4.0
+26,Minimal,Viking-7B,SOME,Grammaticality,3.0
+26,Minimal,Viking-7B,SOME,Fluency,4.0
+26,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+26,Minimal,Viking-7B,SOME,Total,3.6666666666666665
+27,Minimal,Viking-7B,SOME,Grammaticality,2.0
+27,Minimal,Viking-7B,SOME,Fluency,2.0
+27,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+27,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+28,Minimal,Viking-7B,SOME,Grammaticality,3.0
+28,Minimal,Viking-7B,SOME,Fluency,3.0
+28,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+28,Minimal,Viking-7B,SOME,Total,3.0
+29,Minimal,Viking-7B,SOME,Grammaticality,2.0
+29,Minimal,Viking-7B,SOME,Fluency,3.0
+29,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+29,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+30,Minimal,Viking-7B,SOME,Grammaticality,2.0
+30,Minimal,Viking-7B,SOME,Fluency,2.0
+30,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+30,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+31,Minimal,Viking-7B,SOME,Grammaticality,3.0
+31,Minimal,Viking-7B,SOME,Fluency,2.0
+31,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+31,Minimal,Viking-7B,SOME,Total,3.0
+32,Minimal,Viking-7B,SOME,Grammaticality,2.0
+32,Minimal,Viking-7B,SOME,Fluency,2.0
+32,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+32,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+33,Minimal,Viking-7B,SOME,Grammaticality,3.0
+33,Minimal,Viking-7B,SOME,Fluency,2.0
+33,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+33,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+34,Minimal,Viking-7B,SOME,Grammaticality,2.0
+34,Minimal,Viking-7B,SOME,Fluency,1.0
+34,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+34,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+35,Minimal,Viking-7B,SOME,Grammaticality,4.0
+35,Minimal,Viking-7B,SOME,Fluency,3.0
+35,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+35,Minimal,Viking-7B,SOME,Total,3.6666666666666665
+36,Minimal,Viking-7B,SOME,Grammaticality,3.0
+36,Minimal,Viking-7B,SOME,Fluency,2.0
+36,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+36,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+37,Minimal,Viking-7B,SOME,Grammaticality,3.0
+37,Minimal,Viking-7B,SOME,Fluency,4.0
+37,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+37,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+38,Minimal,Viking-7B,SOME,Grammaticality,3.0
+38,Minimal,Viking-7B,SOME,Fluency,2.0
+38,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+38,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+39,Minimal,Viking-7B,SOME,Grammaticality,2.0
+39,Minimal,Viking-7B,SOME,Fluency,2.0
+39,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+39,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+40,Minimal,Viking-7B,SOME,Grammaticality,3.0
+40,Minimal,Viking-7B,SOME,Fluency,3.0
+40,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+40,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+41,Minimal,Viking-7B,SOME,Grammaticality,3.0
+41,Minimal,Viking-7B,SOME,Fluency,2.0
+41,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+41,Minimal,Viking-7B,SOME,Total,3.0
+42,Minimal,Viking-7B,SOME,Grammaticality,4.0
+42,Minimal,Viking-7B,SOME,Fluency,3.0
+42,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+42,Minimal,Viking-7B,SOME,Total,3.3333333333333335
+43,Minimal,Viking-7B,SOME,Grammaticality,3.0
+43,Minimal,Viking-7B,SOME,Fluency,3.0
+43,Minimal,Viking-7B,SOME,Meaning Preservation,2.0
+43,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+44,Minimal,Viking-7B,SOME,Grammaticality,4.0
+44,Minimal,Viking-7B,SOME,Fluency,4.0
+44,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+44,Minimal,Viking-7B,SOME,Total,4.0
+45,Minimal,Viking-7B,SOME,Grammaticality,4.0
+45,Minimal,Viking-7B,SOME,Fluency,3.0
+45,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+45,Minimal,Viking-7B,SOME,Total,3.6666666666666665
+46,Minimal,Viking-7B,SOME,Grammaticality,4.0
+46,Minimal,Viking-7B,SOME,Fluency,3.0
+46,Minimal,Viking-7B,SOME,Meaning Preservation,4.0
+46,Minimal,Viking-7B,SOME,Total,3.6666666666666665
+47,Minimal,Viking-7B,SOME,Grammaticality,3.0
+47,Minimal,Viking-7B,SOME,Fluency,2.0
+47,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+47,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+48,Minimal,Viking-7B,SOME,Grammaticality,3.0
+48,Minimal,Viking-7B,SOME,Fluency,3.0
+48,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+48,Minimal,Viking-7B,SOME,Total,3.0
+49,Minimal,Viking-7B,SOME,Grammaticality,3.0
+49,Minimal,Viking-7B,SOME,Fluency,2.0
+49,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+49,Minimal,Viking-7B,SOME,Total,2.6666666666666665
+50,Minimal,Viking-7B,SOME,Grammaticality,2.0
+50,Minimal,Viking-7B,SOME,Fluency,2.0
+50,Minimal,Viking-7B,SOME,Meaning Preservation,3.0
+50,Minimal,Viking-7B,SOME,Total,2.3333333333333335
+1,Fluency,Viking-7B,SOME,Grammaticality,4.0
+1,Fluency,Viking-7B,SOME,Fluency,3.0
+1,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+1,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+2,Fluency,Viking-7B,SOME,Grammaticality,3.0
+2,Fluency,Viking-7B,SOME,Fluency,4.0
+2,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+2,Fluency,Viking-7B,SOME,Total,3.6666666666666665
+3,Fluency,Viking-7B,SOME,Grammaticality,3.0
+3,Fluency,Viking-7B,SOME,Fluency,3.0
+3,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+3,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+4,Fluency,Viking-7B,SOME,Grammaticality,4.0
+4,Fluency,Viking-7B,SOME,Fluency,3.0
+4,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+4,Fluency,Viking-7B,SOME,Total,3.6666666666666665
+5,Fluency,Viking-7B,SOME,Grammaticality,3.0
+5,Fluency,Viking-7B,SOME,Fluency,4.0
+5,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+5,Fluency,Viking-7B,SOME,Total,3.6666666666666665
+6,Fluency,Viking-7B,SOME,Grammaticality,4.0
+6,Fluency,Viking-7B,SOME,Fluency,4.0
+6,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+6,Fluency,Viking-7B,SOME,Total,4.0
+7,Fluency,Viking-7B,SOME,Grammaticality,3.0
+7,Fluency,Viking-7B,SOME,Fluency,3.0
+7,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+7,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+8,Fluency,Viking-7B,SOME,Grammaticality,2.0
+8,Fluency,Viking-7B,SOME,Fluency,3.0
+8,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+8,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+9,Fluency,Viking-7B,SOME,Grammaticality,2.0
+9,Fluency,Viking-7B,SOME,Fluency,1.0
+9,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+9,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+10,Fluency,Viking-7B,SOME,Grammaticality,3.0
+10,Fluency,Viking-7B,SOME,Fluency,3.0
+10,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+10,Fluency,Viking-7B,SOME,Total,3.0
+11,Fluency,Viking-7B,SOME,Grammaticality,4.0
+11,Fluency,Viking-7B,SOME,Fluency,3.0
+11,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+11,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+12,Fluency,Viking-7B,SOME,Grammaticality,3.0
+12,Fluency,Viking-7B,SOME,Fluency,3.0
+12,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+12,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+13,Fluency,Viking-7B,SOME,Grammaticality,4.0
+13,Fluency,Viking-7B,SOME,Fluency,3.0
+13,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+13,Fluency,Viking-7B,SOME,Total,3.0
+14,Fluency,Viking-7B,SOME,Grammaticality,4.0
+14,Fluency,Viking-7B,SOME,Fluency,3.0
+14,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+14,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+15,Fluency,Viking-7B,SOME,Grammaticality,4.0
+15,Fluency,Viking-7B,SOME,Fluency,3.0
+15,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+15,Fluency,Viking-7B,SOME,Total,3.6666666666666665
+16,Fluency,Viking-7B,SOME,Grammaticality,3.0
+16,Fluency,Viking-7B,SOME,Fluency,3.0
+16,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+16,Fluency,Viking-7B,SOME,Total,3.0
+17,Fluency,Viking-7B,SOME,Grammaticality,3.0
+17,Fluency,Viking-7B,SOME,Fluency,3.0
+17,Fluency,Viking-7B,SOME,Meaning Preservation,1.0
+17,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+18,Fluency,Viking-7B,SOME,Grammaticality,2.0
+18,Fluency,Viking-7B,SOME,Fluency,3.0
+18,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+18,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+19,Fluency,Viking-7B,SOME,Grammaticality,2.0
+19,Fluency,Viking-7B,SOME,Fluency,2.0
+19,Fluency,Viking-7B,SOME,Meaning Preservation,1.0
+19,Fluency,Viking-7B,SOME,Total,1.6666666666666667
+20,Fluency,Viking-7B,SOME,Grammaticality,4.0
+20,Fluency,Viking-7B,SOME,Fluency,3.0
+20,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+20,Fluency,Viking-7B,SOME,Total,3.6666666666666665
+21,Fluency,Viking-7B,SOME,Grammaticality,2.0
+21,Fluency,Viking-7B,SOME,Fluency,2.0
+21,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+21,Fluency,Viking-7B,SOME,Total,2.0
+22,Fluency,Viking-7B,SOME,Grammaticality,4.0
+22,Fluency,Viking-7B,SOME,Fluency,4.0
+22,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+22,Fluency,Viking-7B,SOME,Total,4.0
+23,Fluency,Viking-7B,SOME,Grammaticality,3.0
+23,Fluency,Viking-7B,SOME,Fluency,3.0
+23,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+23,Fluency,Viking-7B,SOME,Total,3.0
+24,Fluency,Viking-7B,SOME,Grammaticality,3.0
+24,Fluency,Viking-7B,SOME,Fluency,3.0
+24,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+24,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+25,Fluency,Viking-7B,SOME,Grammaticality,4.0
+25,Fluency,Viking-7B,SOME,Fluency,3.0
+25,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+25,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+26,Fluency,Viking-7B,SOME,Grammaticality,4.0
+26,Fluency,Viking-7B,SOME,Fluency,3.0
+26,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+26,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+27,Fluency,Viking-7B,SOME,Grammaticality,3.0
+27,Fluency,Viking-7B,SOME,Fluency,3.0
+27,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+27,Fluency,Viking-7B,SOME,Total,3.0
+28,Fluency,Viking-7B,SOME,Grammaticality,3.0
+28,Fluency,Viking-7B,SOME,Fluency,3.0
+28,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+28,Fluency,Viking-7B,SOME,Total,3.0
+29,Fluency,Viking-7B,SOME,Grammaticality,3.0
+29,Fluency,Viking-7B,SOME,Fluency,3.0
+29,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+29,Fluency,Viking-7B,SOME,Total,3.0
+30,Fluency,Viking-7B,SOME,Grammaticality,2.0
+30,Fluency,Viking-7B,SOME,Fluency,2.0
+30,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+30,Fluency,Viking-7B,SOME,Total,2.6666666666666665
+31,Fluency,Viking-7B,SOME,Grammaticality,2.0
+31,Fluency,Viking-7B,SOME,Fluency,3.0
+31,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+31,Fluency,Viking-7B,SOME,Total,2.6666666666666665
+32,Fluency,Viking-7B,SOME,Grammaticality,2.0
+32,Fluency,Viking-7B,SOME,Fluency,3.0
+32,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+32,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+33,Fluency,Viking-7B,SOME,Grammaticality,2.0
+33,Fluency,Viking-7B,SOME,Fluency,3.0
+33,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+33,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+34,Fluency,Viking-7B,SOME,Grammaticality,2.0
+34,Fluency,Viking-7B,SOME,Fluency,3.0
+34,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+34,Fluency,Viking-7B,SOME,Total,3.0
+35,Fluency,Viking-7B,SOME,Grammaticality,4.0
+35,Fluency,Viking-7B,SOME,Fluency,3.0
+35,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+35,Fluency,Viking-7B,SOME,Total,3.0
+36,Fluency,Viking-7B,SOME,Grammaticality,3.0
+36,Fluency,Viking-7B,SOME,Fluency,2.0
+36,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+36,Fluency,Viking-7B,SOME,Total,2.6666666666666665
+37,Fluency,Viking-7B,SOME,Grammaticality,3.0
+37,Fluency,Viking-7B,SOME,Fluency,3.0
+37,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+37,Fluency,Viking-7B,SOME,Total,3.0
+38,Fluency,Viking-7B,SOME,Grammaticality,3.0
+38,Fluency,Viking-7B,SOME,Fluency,3.0
+38,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+38,Fluency,Viking-7B,SOME,Total,3.0
+39,Fluency,Viking-7B,SOME,Grammaticality,3.0
+39,Fluency,Viking-7B,SOME,Fluency,2.0
+39,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+39,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+40,Fluency,Viking-7B,SOME,Grammaticality,2.0
+40,Fluency,Viking-7B,SOME,Fluency,3.0
+40,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+40,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+41,Fluency,Viking-7B,SOME,Grammaticality,3.0
+41,Fluency,Viking-7B,SOME,Fluency,3.0
+41,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+41,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+42,Fluency,Viking-7B,SOME,Grammaticality,4.0
+42,Fluency,Viking-7B,SOME,Fluency,3.0
+42,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+42,Fluency,Viking-7B,SOME,Total,3.3333333333333335
+43,Fluency,Viking-7B,SOME,Grammaticality,3.0
+43,Fluency,Viking-7B,SOME,Fluency,3.0
+43,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+43,Fluency,Viking-7B,SOME,Total,3.0
+44,Fluency,Viking-7B,SOME,Grammaticality,4.0
+44,Fluency,Viking-7B,SOME,Fluency,4.0
+44,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+44,Fluency,Viking-7B,SOME,Total,4.0
+45,Fluency,Viking-7B,SOME,Grammaticality,4.0
+45,Fluency,Viking-7B,SOME,Fluency,4.0
+45,Fluency,Viking-7B,SOME,Meaning Preservation,4.0
+45,Fluency,Viking-7B,SOME,Total,4.0
+46,Fluency,Viking-7B,SOME,Grammaticality,4.0
+46,Fluency,Viking-7B,SOME,Fluency,4.0
+46,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+46,Fluency,Viking-7B,SOME,Total,3.6666666666666665
+47,Fluency,Viking-7B,SOME,Grammaticality,3.0
+47,Fluency,Viking-7B,SOME,Fluency,3.0
+47,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+47,Fluency,Viking-7B,SOME,Total,3.0
+48,Fluency,Viking-7B,SOME,Grammaticality,3.0
+48,Fluency,Viking-7B,SOME,Fluency,3.0
+48,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+48,Fluency,Viking-7B,SOME,Total,3.0
+49,Fluency,Viking-7B,SOME,Grammaticality,3.0
+49,Fluency,Viking-7B,SOME,Fluency,2.0
+49,Fluency,Viking-7B,SOME,Meaning Preservation,3.0
+49,Fluency,Viking-7B,SOME,Total,2.6666666666666665
+50,Fluency,Viking-7B,SOME,Grammaticality,3.0
+50,Fluency,Viking-7B,SOME,Fluency,2.0
+50,Fluency,Viking-7B,SOME,Meaning Preservation,2.0
+50,Fluency,Viking-7B,SOME,Total,2.3333333333333335
+1,Minimal,Viking-13B,SOME,Grammaticality,4.0
+1,Minimal,Viking-13B,SOME,Fluency,3.0
+1,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+1,Minimal,Viking-13B,SOME,Total,3.6666666666666665
+2,Minimal,Viking-13B,SOME,Grammaticality,3.0
+2,Minimal,Viking-13B,SOME,Fluency,3.0
+2,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+2,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+3,Minimal,Viking-13B,SOME,Grammaticality,3.0
+3,Minimal,Viking-13B,SOME,Fluency,2.0
+3,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+3,Minimal,Viking-13B,SOME,Total,3.0
+4,Minimal,Viking-13B,SOME,Grammaticality,3.0
+4,Minimal,Viking-13B,SOME,Fluency,3.0
+4,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+4,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+5,Minimal,Viking-13B,SOME,Grammaticality,3.0
+5,Minimal,Viking-13B,SOME,Fluency,3.0
+5,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+5,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+6,Minimal,Viking-13B,SOME,Grammaticality,3.0
+6,Minimal,Viking-13B,SOME,Fluency,3.0
+6,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+6,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+7,Minimal,Viking-13B,SOME,Grammaticality,3.0
+7,Minimal,Viking-13B,SOME,Fluency,2.0
+7,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+7,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+8,Minimal,Viking-13B,SOME,Grammaticality,2.0
+8,Minimal,Viking-13B,SOME,Fluency,2.0
+8,Minimal,Viking-13B,SOME,Meaning Preservation,2.0
+8,Minimal,Viking-13B,SOME,Total,2.0
+9,Minimal,Viking-13B,SOME,Grammaticality,2.0
+9,Minimal,Viking-13B,SOME,Fluency,2.0
+9,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+9,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+10,Minimal,Viking-13B,SOME,Grammaticality,3.0
+10,Minimal,Viking-13B,SOME,Fluency,3.0
+10,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+10,Minimal,Viking-13B,SOME,Total,3.0
+11,Minimal,Viking-13B,SOME,Grammaticality,2.0
+11,Minimal,Viking-13B,SOME,Fluency,3.0
+11,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+11,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+12,Minimal,Viking-13B,SOME,Grammaticality,2.0
+12,Minimal,Viking-13B,SOME,Fluency,2.0
+12,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+12,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+13,Minimal,Viking-13B,SOME,Grammaticality,2.0
+13,Minimal,Viking-13B,SOME,Fluency,3.0
+13,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+13,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+14,Minimal,Viking-13B,SOME,Grammaticality,3.0
+14,Minimal,Viking-13B,SOME,Fluency,2.0
+14,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+14,Minimal,Viking-13B,SOME,Total,3.0
+15,Minimal,Viking-13B,SOME,Grammaticality,3.0
+15,Minimal,Viking-13B,SOME,Fluency,3.0
+15,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+15,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+16,Minimal,Viking-13B,SOME,Grammaticality,3.0
+16,Minimal,Viking-13B,SOME,Fluency,3.0
+16,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+16,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+17,Minimal,Viking-13B,SOME,Grammaticality,3.0
+17,Minimal,Viking-13B,SOME,Fluency,3.0
+17,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+17,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+18,Minimal,Viking-13B,SOME,Grammaticality,2.0
+18,Minimal,Viking-13B,SOME,Fluency,3.0
+18,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+18,Minimal,Viking-13B,SOME,Total,3.0
+19,Minimal,Viking-13B,SOME,Grammaticality,2.0
+19,Minimal,Viking-13B,SOME,Fluency,1.0
+19,Minimal,Viking-13B,SOME,Meaning Preservation,2.0
+19,Minimal,Viking-13B,SOME,Total,1.6666666666666667
+20,Minimal,Viking-13B,SOME,Grammaticality,3.0
+20,Minimal,Viking-13B,SOME,Fluency,2.0
+20,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+20,Minimal,Viking-13B,SOME,Total,3.0
+21,Minimal,Viking-13B,SOME,Grammaticality,3.0
+21,Minimal,Viking-13B,SOME,Fluency,3.0
+21,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+21,Minimal,Viking-13B,SOME,Total,3.0
+22,Minimal,Viking-13B,SOME,Grammaticality,4.0
+22,Minimal,Viking-13B,SOME,Fluency,4.0
+22,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+22,Minimal,Viking-13B,SOME,Total,3.6666666666666665
+23,Minimal,Viking-13B,SOME,Grammaticality,3.0
+23,Minimal,Viking-13B,SOME,Fluency,3.0
+23,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+23,Minimal,Viking-13B,SOME,Total,3.0
+24,Minimal,Viking-13B,SOME,Grammaticality,3.0
+24,Minimal,Viking-13B,SOME,Fluency,2.0
+24,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+24,Minimal,Viking-13B,SOME,Total,3.0
+25,Minimal,Viking-13B,SOME,Grammaticality,4.0
+25,Minimal,Viking-13B,SOME,Fluency,4.0
+25,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+25,Minimal,Viking-13B,SOME,Total,4.0
+26,Minimal,Viking-13B,SOME,Grammaticality,4.0
+26,Minimal,Viking-13B,SOME,Fluency,3.0
+26,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+26,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+27,Minimal,Viking-13B,SOME,Grammaticality,3.0
+27,Minimal,Viking-13B,SOME,Fluency,2.0
+27,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+27,Minimal,Viking-13B,SOME,Total,3.0
+28,Minimal,Viking-13B,SOME,Grammaticality,3.0
+28,Minimal,Viking-13B,SOME,Fluency,2.0
+28,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+28,Minimal,Viking-13B,SOME,Total,3.0
+29,Minimal,Viking-13B,SOME,Grammaticality,3.0
+29,Minimal,Viking-13B,SOME,Fluency,2.0
+29,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+29,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+30,Minimal,Viking-13B,SOME,Grammaticality,3.0
+30,Minimal,Viking-13B,SOME,Fluency,3.0
+30,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+30,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+31,Minimal,Viking-13B,SOME,Grammaticality,2.0
+31,Minimal,Viking-13B,SOME,Fluency,2.0
+31,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+31,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+32,Minimal,Viking-13B,SOME,Grammaticality,2.0
+32,Minimal,Viking-13B,SOME,Fluency,1.0
+32,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+32,Minimal,Viking-13B,SOME,Total,2.0
+33,Minimal,Viking-13B,SOME,Grammaticality,3.0
+33,Minimal,Viking-13B,SOME,Fluency,2.0
+33,Minimal,Viking-13B,SOME,Meaning Preservation,1.0
+33,Minimal,Viking-13B,SOME,Total,2.0
+34,Minimal,Viking-13B,SOME,Grammaticality,3.0
+34,Minimal,Viking-13B,SOME,Fluency,2.0
+34,Minimal,Viking-13B,SOME,Meaning Preservation,2.0
+34,Minimal,Viking-13B,SOME,Total,2.3333333333333335
+35,Minimal,Viking-13B,SOME,Grammaticality,4.0
+35,Minimal,Viking-13B,SOME,Fluency,4.0
+35,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+35,Minimal,Viking-13B,SOME,Total,3.6666666666666665
+36,Minimal,Viking-13B,SOME,Grammaticality,3.0
+36,Minimal,Viking-13B,SOME,Fluency,2.0
+36,Minimal,Viking-13B,SOME,Meaning Preservation,2.0
+36,Minimal,Viking-13B,SOME,Total,2.3333333333333335
+37,Minimal,Viking-13B,SOME,Grammaticality,3.0
+37,Minimal,Viking-13B,SOME,Fluency,3.0
+37,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+37,Minimal,Viking-13B,SOME,Total,3.0
+38,Minimal,Viking-13B,SOME,Grammaticality,3.0
+38,Minimal,Viking-13B,SOME,Fluency,3.0
+38,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+38,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+39,Minimal,Viking-13B,SOME,Grammaticality,2.0
+39,Minimal,Viking-13B,SOME,Fluency,3.0
+39,Minimal,Viking-13B,SOME,Meaning Preservation,2.0
+39,Minimal,Viking-13B,SOME,Total,2.3333333333333335
+40,Minimal,Viking-13B,SOME,Grammaticality,4.0
+40,Minimal,Viking-13B,SOME,Fluency,3.0
+40,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+40,Minimal,Viking-13B,SOME,Total,3.6666666666666665
+41,Minimal,Viking-13B,SOME,Grammaticality,3.0
+41,Minimal,Viking-13B,SOME,Fluency,2.0
+41,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+41,Minimal,Viking-13B,SOME,Total,3.0
+42,Minimal,Viking-13B,SOME,Grammaticality,3.0
+42,Minimal,Viking-13B,SOME,Fluency,3.0
+42,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+42,Minimal,Viking-13B,SOME,Total,3.0
+43,Minimal,Viking-13B,SOME,Grammaticality,3.0
+43,Minimal,Viking-13B,SOME,Fluency,3.0
+43,Minimal,Viking-13B,SOME,Meaning Preservation,2.0
+43,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+44,Minimal,Viking-13B,SOME,Grammaticality,4.0
+44,Minimal,Viking-13B,SOME,Fluency,4.0
+44,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+44,Minimal,Viking-13B,SOME,Total,4.0
+45,Minimal,Viking-13B,SOME,Grammaticality,4.0
+45,Minimal,Viking-13B,SOME,Fluency,3.0
+45,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+45,Minimal,Viking-13B,SOME,Total,3.6666666666666665
+46,Minimal,Viking-13B,SOME,Grammaticality,3.0
+46,Minimal,Viking-13B,SOME,Fluency,3.0
+46,Minimal,Viking-13B,SOME,Meaning Preservation,4.0
+46,Minimal,Viking-13B,SOME,Total,3.3333333333333335
+47,Minimal,Viking-13B,SOME,Grammaticality,3.0
+47,Minimal,Viking-13B,SOME,Fluency,2.0
+47,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+47,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+48,Minimal,Viking-13B,SOME,Grammaticality,3.0
+48,Minimal,Viking-13B,SOME,Fluency,3.0
+48,Minimal,Viking-13B,SOME,Meaning Preservation,2.0
+48,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+49,Minimal,Viking-13B,SOME,Grammaticality,3.0
+49,Minimal,Viking-13B,SOME,Fluency,3.0
+49,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+49,Minimal,Viking-13B,SOME,Total,3.0
+50,Minimal,Viking-13B,SOME,Grammaticality,2.0
+50,Minimal,Viking-13B,SOME,Fluency,3.0
+50,Minimal,Viking-13B,SOME,Meaning Preservation,3.0
+50,Minimal,Viking-13B,SOME,Total,2.6666666666666665
+1,Fluency,Viking-13B,SOME,Grammaticality,4.0
+1,Fluency,Viking-13B,SOME,Fluency,3.0
+1,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+1,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+2,Fluency,Viking-13B,SOME,Grammaticality,3.0
+2,Fluency,Viking-13B,SOME,Fluency,3.0
+2,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+2,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+3,Fluency,Viking-13B,SOME,Grammaticality,3.0
+3,Fluency,Viking-13B,SOME,Fluency,4.0
+3,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+3,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+4,Fluency,Viking-13B,SOME,Grammaticality,3.0
+4,Fluency,Viking-13B,SOME,Fluency,3.0
+4,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+4,Fluency,Viking-13B,SOME,Total,3.0
+5,Fluency,Viking-13B,SOME,Grammaticality,4.0
+5,Fluency,Viking-13B,SOME,Fluency,4.0
+5,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+5,Fluency,Viking-13B,SOME,Total,4.0
+6,Fluency,Viking-13B,SOME,Grammaticality,4.0
+6,Fluency,Viking-13B,SOME,Fluency,3.0
+6,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+6,Fluency,Viking-13B,SOME,Total,3.6666666666666665
+7,Fluency,Viking-13B,SOME,Grammaticality,4.0
+7,Fluency,Viking-13B,SOME,Fluency,3.0
+7,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+7,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+8,Fluency,Viking-13B,SOME,Grammaticality,3.0
+8,Fluency,Viking-13B,SOME,Fluency,2.0
+8,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+8,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+9,Fluency,Viking-13B,SOME,Grammaticality,3.0
+9,Fluency,Viking-13B,SOME,Fluency,2.0
+9,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+9,Fluency,Viking-13B,SOME,Total,3.0
+10,Fluency,Viking-13B,SOME,Grammaticality,4.0
+10,Fluency,Viking-13B,SOME,Fluency,3.0
+10,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+10,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+11,Fluency,Viking-13B,SOME,Grammaticality,3.0
+11,Fluency,Viking-13B,SOME,Fluency,3.0
+11,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+11,Fluency,Viking-13B,SOME,Total,3.0
+12,Fluency,Viking-13B,SOME,Grammaticality,3.0
+12,Fluency,Viking-13B,SOME,Fluency,2.0
+12,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+12,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+13,Fluency,Viking-13B,SOME,Grammaticality,3.0
+13,Fluency,Viking-13B,SOME,Fluency,4.0
+13,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+13,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+14,Fluency,Viking-13B,SOME,Grammaticality,3.0
+14,Fluency,Viking-13B,SOME,Fluency,3.0
+14,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+14,Fluency,Viking-13B,SOME,Total,3.0
+15,Fluency,Viking-13B,SOME,Grammaticality,3.0
+15,Fluency,Viking-13B,SOME,Fluency,3.0
+15,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+15,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+16,Fluency,Viking-13B,SOME,Grammaticality,3.0
+16,Fluency,Viking-13B,SOME,Fluency,3.0
+16,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+16,Fluency,Viking-13B,SOME,Total,3.0
+17,Fluency,Viking-13B,SOME,Grammaticality,4.0
+17,Fluency,Viking-13B,SOME,Fluency,4.0
+17,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+17,Fluency,Viking-13B,SOME,Total,4.0
+18,Fluency,Viking-13B,SOME,Grammaticality,3.0
+18,Fluency,Viking-13B,SOME,Fluency,4.0
+18,Fluency,Viking-13B,SOME,Meaning Preservation,2.0
+18,Fluency,Viking-13B,SOME,Total,3.0
+19,Fluency,Viking-13B,SOME,Grammaticality,2.0
+19,Fluency,Viking-13B,SOME,Fluency,3.0
+19,Fluency,Viking-13B,SOME,Meaning Preservation,2.0
+19,Fluency,Viking-13B,SOME,Total,2.3333333333333335
+20,Fluency,Viking-13B,SOME,Grammaticality,4.0
+20,Fluency,Viking-13B,SOME,Fluency,3.0
+20,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+20,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+21,Fluency,Viking-13B,SOME,Grammaticality,3.0
+21,Fluency,Viking-13B,SOME,Fluency,3.0
+21,Fluency,Viking-13B,SOME,Meaning Preservation,2.0
+21,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+22,Fluency,Viking-13B,SOME,Grammaticality,4.0
+22,Fluency,Viking-13B,SOME,Fluency,4.0
+22,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+22,Fluency,Viking-13B,SOME,Total,4.0
+23,Fluency,Viking-13B,SOME,Grammaticality,3.0
+23,Fluency,Viking-13B,SOME,Fluency,3.0
+23,Fluency,Viking-13B,SOME,Meaning Preservation,2.0
+23,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+24,Fluency,Viking-13B,SOME,Grammaticality,3.0
+24,Fluency,Viking-13B,SOME,Fluency,3.0
+24,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+24,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+25,Fluency,Viking-13B,SOME,Grammaticality,4.0
+25,Fluency,Viking-13B,SOME,Fluency,4.0
+25,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+25,Fluency,Viking-13B,SOME,Total,3.6666666666666665
+26,Fluency,Viking-13B,SOME,Grammaticality,4.0
+26,Fluency,Viking-13B,SOME,Fluency,3.0
+26,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+26,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+27,Fluency,Viking-13B,SOME,Grammaticality,4.0
+27,Fluency,Viking-13B,SOME,Fluency,3.0
+27,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+27,Fluency,Viking-13B,SOME,Total,3.6666666666666665
+28,Fluency,Viking-13B,SOME,Grammaticality,4.0
+28,Fluency,Viking-13B,SOME,Fluency,3.0
+28,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+28,Fluency,Viking-13B,SOME,Total,3.6666666666666665
+29,Fluency,Viking-13B,SOME,Grammaticality,3.0
+29,Fluency,Viking-13B,SOME,Fluency,3.0
+29,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+29,Fluency,Viking-13B,SOME,Total,3.0
+30,Fluency,Viking-13B,SOME,Grammaticality,3.0
+30,Fluency,Viking-13B,SOME,Fluency,2.0
+30,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+30,Fluency,Viking-13B,SOME,Total,3.0
+31,Fluency,Viking-13B,SOME,Grammaticality,3.0
+31,Fluency,Viking-13B,SOME,Fluency,2.0
+31,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+31,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+32,Fluency,Viking-13B,SOME,Grammaticality,1.0
+32,Fluency,Viking-13B,SOME,Fluency,1.0
+32,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+32,Fluency,Viking-13B,SOME,Total,1.6666666666666667
+33,Fluency,Viking-13B,SOME,Grammaticality,2.0
+33,Fluency,Viking-13B,SOME,Fluency,2.0
+33,Fluency,Viking-13B,SOME,Meaning Preservation,1.0
+33,Fluency,Viking-13B,SOME,Total,1.6666666666666667
+34,Fluency,Viking-13B,SOME,Grammaticality,2.0
+34,Fluency,Viking-13B,SOME,Fluency,2.0
+34,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+34,Fluency,Viking-13B,SOME,Total,2.3333333333333335
+35,Fluency,Viking-13B,SOME,Grammaticality,4.0
+35,Fluency,Viking-13B,SOME,Fluency,4.0
+35,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+35,Fluency,Viking-13B,SOME,Total,4.0
+36,Fluency,Viking-13B,SOME,Grammaticality,3.0
+36,Fluency,Viking-13B,SOME,Fluency,2.0
+36,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+36,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+37,Fluency,Viking-13B,SOME,Grammaticality,3.0
+37,Fluency,Viking-13B,SOME,Fluency,3.0
+37,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+37,Fluency,Viking-13B,SOME,Total,3.0
+38,Fluency,Viking-13B,SOME,Grammaticality,3.0
+38,Fluency,Viking-13B,SOME,Fluency,2.0
+38,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+38,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+39,Fluency,Viking-13B,SOME,Grammaticality,2.0
+39,Fluency,Viking-13B,SOME,Fluency,2.0
+39,Fluency,Viking-13B,SOME,Meaning Preservation,2.0
+39,Fluency,Viking-13B,SOME,Total,2.0
+40,Fluency,Viking-13B,SOME,Grammaticality,3.0
+40,Fluency,Viking-13B,SOME,Fluency,3.0
+40,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+40,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+41,Fluency,Viking-13B,SOME,Grammaticality,4.0
+41,Fluency,Viking-13B,SOME,Fluency,3.0
+41,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+41,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+42,Fluency,Viking-13B,SOME,Grammaticality,4.0
+42,Fluency,Viking-13B,SOME,Fluency,3.0
+42,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+42,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+43,Fluency,Viking-13B,SOME,Grammaticality,4.0
+43,Fluency,Viking-13B,SOME,Fluency,3.0
+43,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+43,Fluency,Viking-13B,SOME,Total,3.6666666666666665
+44,Fluency,Viking-13B,SOME,Grammaticality,4.0
+44,Fluency,Viking-13B,SOME,Fluency,4.0
+44,Fluency,Viking-13B,SOME,Meaning Preservation,4.0
+44,Fluency,Viking-13B,SOME,Total,4.0
+45,Fluency,Viking-13B,SOME,Grammaticality,4.0
+45,Fluency,Viking-13B,SOME,Fluency,3.0
+45,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+45,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+46,Fluency,Viking-13B,SOME,Grammaticality,4.0
+46,Fluency,Viking-13B,SOME,Fluency,4.0
+46,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+46,Fluency,Viking-13B,SOME,Total,3.6666666666666665
+47,Fluency,Viking-13B,SOME,Grammaticality,3.0
+47,Fluency,Viking-13B,SOME,Fluency,2.0
+47,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+47,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+48,Fluency,Viking-13B,SOME,Grammaticality,4.0
+48,Fluency,Viking-13B,SOME,Fluency,4.0
+48,Fluency,Viking-13B,SOME,Meaning Preservation,2.0
+48,Fluency,Viking-13B,SOME,Total,3.3333333333333335
+49,Fluency,Viking-13B,SOME,Grammaticality,3.0
+49,Fluency,Viking-13B,SOME,Fluency,2.0
+49,Fluency,Viking-13B,SOME,Meaning Preservation,3.0
+49,Fluency,Viking-13B,SOME,Total,2.6666666666666665
+50,Fluency,Viking-13B,SOME,Grammaticality,3.0
+50,Fluency,Viking-13B,SOME,Fluency,2.0
+50,Fluency,Viking-13B,SOME,Meaning Preservation,2.0
+50,Fluency,Viking-13B,SOME,Total,2.3333333333333335
