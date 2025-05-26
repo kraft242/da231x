@@ -1,20 +1,28 @@
-# Evaluate
+# Evaluate and Plot
+
+This directory handles the evaluation and plotting.
+
+Instructions for evaluation can be found under the `Evaluate` heading.
+
+The scores used in the report can be found in the `scores_long.csv` file, which can also be visualized and placed into tables with the `plot.ipynb` notebook.
+
+## Evaluate
 
 Follow the headings below to setup and compute the scores.
 
 The instructions are adapted from the MultiGEC-2025 Data Providers repository.
 
-## Virtual Environment
+### Virtual Environment
 
 You can use the same virtual environment as before.
 
 Make sure you have activated the environment before installing the packages, i.e run: `$ source ../.venv/bin/activate`.
 
-## Install Packages
+### Install Packages
 
 Execute the commands under each respective sub-heading to install the automatic-evaluation packages.
 
-### ERRANT
+#### ERRANT
 
 ```bash
 pip install regex pandas syntok
@@ -37,7 +45,7 @@ python -m spacy download en_core_web_sm
 python download_spacy_english_model.py
 ```
 
-### GLEU:
+#### GLEU
 
 ```bash
 git clone https://github.com/shotakoyama/gleu
@@ -46,7 +54,7 @@ pip install -e .
 cd ../
 ```
 
-### Scribendi Score
+#### Scribendi Score
 
 ```bash
 git clone https://github.com/robertostling/scribendi_score
@@ -57,7 +65,7 @@ cd ../
 
 After this, you will also need to move or copy the `scribeni.py` module into this directory, i.e run `cp scribendi/scribendi.py .`
 
-## Evaluate
+### Run Evaluation
 
 You can now run the notebook `automatic_evaluation.ipynb` to perform the automatic evaluation.
 
