@@ -2,9 +2,23 @@
 
 This directory handles the evaluation and plotting.
 
-Instructions for evaluation can be found under the `Evaluate` heading.
+Evaluation instructions can be found under the `Evaluate` heading.
+
+Pre-computed scores are also available, which is explained under the `Plot` heading.
+
+## Plot
 
 The scores used in the report can be found in the `scores_long.csv` file, which can also be visualized and placed into tables with the `plot.ipynb` notebook.
+
+Create a virtual enviroment for plotting and install the required packages before running the plot notebook:
+
+```bash
+python -m venv plot-env
+source plot-env/bin/activate
+pip install -r plot_requirements.txt
+```
+
+You can now run the `plot.ipynb` notebook, just make sure to select the `plot-env` kernel.
 
 ## Evaluate
 
@@ -14,7 +28,7 @@ The instructions are adapted from the MultiGEC-2025 Data Providers repository.
 
 ### Virtual Environment
 
-You can use the same virtual environment as before.
+You can use the same virtual environment as when training the models.
 
 Make sure you have activated the environment before installing the packages, i.e run: `$ source ../.venv/bin/activate`.
 
